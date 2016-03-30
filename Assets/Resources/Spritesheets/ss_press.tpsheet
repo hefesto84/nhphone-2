@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4e14ac684f2f0066efc848029dc33e84:888e67ecb8be6d3c5ae293e90aef6f64:680fc6465884914afe874b0ee5b13a90$
+#
+:format=40000
+:texture=ss_press.jpg
+:size=974x1638
+
+as;1;547;485;180;0.5;0.5
+dailymail;1;729;485;180;0.5;0.5
+diewelt;1;365;485;180;0.5;0.5
+elmundo;1;911;485;180;0.5;0.5
+elpais;1;1093;485;180;0.5;0.5
+expansion;1;1275;485;180;0.5;0.5
+handelsblatt;1;1457;485;180;0.5;0.5
+lagazzetta;488;1457;485;180;0.5;0.5
+larepubblica;1;183;485;180;0.5;0.5
+lavanguardia;488;1275;485;180;0.5;0.5
+lemonde;488;1;485;180;0.5;0.5
+leparisien;488;183;485;180;0.5;0.5
+lequipe;488;365;485;180;0.5;0.5
+marca;488;547;485;180;0.5;0.5
+nytimes;488;911;485;180;0.5;0.5
+periodico;488;1093;485;180;0.5;0.5
+thesun;488;729;485;180;0.5;0.5
+wallstreetj;1;1;485;180;0.5;0.5

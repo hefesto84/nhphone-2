@@ -1,0 +1,354 @@
+{
+  "channels": [
+    {
+      "id":1,
+      "name":"TV1",
+      "lang":"ES"
+    },
+    {
+      "id":2,
+      "name":"TV2",
+      "lang":"ES"
+    },
+    {
+      "id":3,
+      "name":"Antena 3",
+      "lang":"ES"
+    },
+    {
+      "id":4,
+      "name":"Cuatro",
+      "lang":"ES"
+    },
+    {
+      "id":5,
+      "name":"Telecinco",
+      "lang":"ES"
+    },
+    {
+      "id":6,
+      "name":"La Sexta",
+      "lang":"ES"
+    },
+    {
+      "id":7,
+      "name":"BBC World",
+      "lang":"EN"
+    },
+    {
+      "id":8,
+      "name":"CNN International",
+      "lang":"EN"
+    },
+    {
+      "id":9,
+      "name":"Bloomberg Europe",
+      "lang":"EN"
+    },
+    {
+      "id":10,
+      "name":"Russia Today",
+      "lang":"EN"
+    },
+    {
+      "id":11,
+      "name":"CCTV",
+      "lang":"EN"
+    },
+    {
+      "id":12,
+      "name":"CNBC Europe",
+      "lang":"EN"
+    },
+    {
+      "id":13,
+      "name":"Sky News International",
+      "lang":"EN"
+    },
+    {
+      "id":14,
+      "name":"France 24",
+      "lang":"FR"
+    },
+    {
+      "id":15,
+      "name":"TV5 Monde",
+      "lang":"FR"
+    },
+    {
+      "id":16,
+      "name":"ZDF",
+      "lang":"DE"
+    },
+    {
+      "id":17,
+      "name":"SAT 1",
+      "lang":"DE"
+    },
+    {
+      "id":18,
+      "name":"Prosieben",
+      "lang":"DE"
+    },
+    {
+      "id":19,
+      "name":"Kabel Eins",
+      "lang":"DE"
+    },
+    {
+      "id":20,
+      "name":"SAT 3",
+      "lang":"DE"
+    },
+    {
+      "id":21,
+      "name":"WDR",
+      "lang":"DE"
+    },
+    {
+      "id":22,
+      "name":"Kika",
+      "lang":"DE"
+    },
+    {
+      "id":23,
+      "name":"Rai News",
+      "lang":"IT"
+    },
+    {
+      "id":24,
+      "name":"RTPI",
+      "lang":"PT"
+    },
+    {
+      "id":25,
+      "name":"Canal + Estrenos",
+      "lang":"ES"
+    },
+    {
+      "id":26,
+      "name":"Canal + Series",
+      "lang":"ES"
+    },
+    {
+      "id":27,
+      "name":"Canal + Series Extra",
+      "lang":"ES"
+    },
+    {
+      "id":28,
+      "name":"Canal + Dcine",
+      "lang":"ES"
+    },
+    {
+      "id":29,
+      "name":"Canal + Comedia",
+      "lang":"ES"
+    },
+    {
+      "id":30,
+      "name":"Canal + Acción",
+      "lang":"ES"
+    },
+    {
+      "id":31,
+      "name":"National Geographic",
+      "lang":"ES"
+    },
+    {
+      "id":32,
+      "name":"Paramount",
+      "lang":"ES"
+    },
+    {
+      "id":33,
+      "name":"NonStopPeople",
+      "lang":"EN"
+    },
+    {
+      "id":34,
+      "name":"Discovery MAX",
+      "lang":"ES"
+    },
+    {
+      "id":35,
+      "name":"Neox",
+      "lang":"ES"
+    },
+    {
+      "id":36,
+      "name":"Neox",
+      "lang":"ES"
+    },
+    {
+      "id":37,
+      "name":"Nova",
+      "lang":"ES"
+    },
+    {
+      "id":38,
+      "name":"FDF",
+      "lang":"ES"
+    },
+    {
+      "id":39,
+      "name":"Divinity",
+      "lang":"ES"
+    },
+    {
+      "id":40,
+      "name":"Energy",
+      "lang":"ES"
+    },
+    {
+      "id":41,
+      "name":"Mega",
+      "lang":"ES"
+    },
+    {
+      "id":42,
+      "name":"AXN",
+      "lang":"ES"
+    },
+    {
+      "id":43,
+      "name":"Fox",
+      "lang":"ES"
+    },
+    {
+      "id":44,
+      "name":"8TV",
+      "lang":"CA"
+    },
+    {
+      "id":45,
+      "name":"13tv",
+      "lang":"ES"
+    },
+    {
+      "id":46,
+      "name":"40tv",
+      "lang":"ES"
+    },
+    {
+      "id":47,
+      "name":"24h",
+      "lang":"ES"
+    },
+    {
+      "id":48,
+      "name":"TV3",
+      "lang":"CA"
+    },
+    {
+      "id":49,
+      "name":"Super 3/33",
+      "lang":"CA"
+    },
+    {
+      "id":50,
+      "name":"3/24h",
+      "lang":"CA"
+    },
+    {
+      "id":51,
+      "name":"BTV",
+      "lang":"CA"
+    },
+    {
+      "id":52,
+      "name":"Clan",
+      "lang":"CA"
+    },
+    {
+      "id":53,
+      "name":"Boing",
+      "lang":"ES"
+    },
+    {
+      "id":54,
+      "name":"Disney Channel",
+      "lang":"ES"
+    },
+    {
+      "id":55,
+      "name":"Disney Junior",
+      "lang":"ES"
+    },
+    {
+      "id":56,
+      "name":"Disney XD",
+      "lang":"ES"
+    },
+    {
+      "id":57,
+      "name":"Teledeporte",
+      "lang":"ES"
+    },
+    {
+      "id":58,
+      "name":"Canal + Deportes",
+      "lang":"ES"
+    },
+    {
+      "id":59,
+      "name":"Barça TV",
+      "lang":"CA"
+    },
+    {
+      "id":60,
+      "name":"Esport 3",
+      "lang":"CA"
+    },
+    {
+      "id":61,
+      "name":"Canal + Futbol",
+      "lang":"ES"
+    },
+    {
+      "id":62,
+      "name":"Canal + Partidazo",
+      "lang":"ES"
+    },
+    {
+      "id":63,
+      "name":"Canal + Liga",
+      "lang":"ES"
+    },
+    {
+      "id":64,
+      "name":"Canal + Liga 2",
+      "lang":"ES"
+    },
+    {
+      "id":65,
+      "name":"Canal + Liga 2A",
+      "lang":"ES"
+    },
+    {
+      "id":66,
+      "name":"Canal + Liga 2B",
+      "lang":"ES"
+    },
+    {
+      "id":67,
+      "name":"Canal + Liga 2C",
+      "lang":"ES"
+    },
+    {
+      "id":68,
+      "name":"Canal + Liga 2D",
+      "lang":"ES"
+    },
+    {
+      "id":69,
+      "name":"Canal + Liga Multi",
+      "lang":"ES"
+    },
+    {
+      "id":70,
+      "name":"Mwlive TV",
+      "lang":"EN"
+    }
+  ]
+}

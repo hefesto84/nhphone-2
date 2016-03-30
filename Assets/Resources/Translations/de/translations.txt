@@ -1,0 +1,278 @@
+{
+"t0000": "Willkommen zu NH Collection",
+"t0001": "Anrufen",
+"t0002": "Rezeption anrufen",
+"t0003": "Zimmerservice",
+"t0004": "Dienstleistungen des Hotels",
+"t0005": "Frühstück auf dem Zimmer",
+"t0006": "Weckanruf",
+"t0007": "Stadtführer",
+"t0008": "Tagespresse",
+"t0009": "Umfrage Tablet",
+"t0010": "Restaurant",
+"t0011": "Fitness Room",
+"t0012": "Spa",
+"t0013": "Schwimmbecken",
+"t0014": "Weitere Dienstleistungen",
+"t0015": "Wifi",
+"t0016": "Wichtige Telefonnummern",
+"t0017": "TV-Kanäle",
+"t0018": "Meetings und Events",
+"t0019": "Sicherheitshinweise",
+"t0020": "Nachhaltigkeit",
+"wifi_title":"WiFi kostenlos und leicht zugänglich",
+"wifi_user":"- Nutzer: nh",
+"wifi_password":"- Password: wifi",
+"wifi_premium_title":"Wifi Premium:",
+"wifi_premium1":"- Premium 24 Stunden: Bandbreite bis 1 Mb.",
+"wifi_premium2":"- Dauer: 24 aufeinander folgende Stunden ab der ersten Verbindung.",
+"wifi_premium3":"- Gültigkeit: öffentlicher Bereich.",
+"wifi_premium4":"- Anschluss von bis zu 3 Geräten.",
+"wifi_premium_price":"Preis: 9,90€ incl. MwSt.",
+"t0021": "<b>WiFi kostenlos und leicht zugänglich</b>
+- Nutzer: nh
+- Password: wifi
+
+<b>Wifi Premium:</b>
+- Premium 24 Stunden: Bandbreite bis 1 Mb.
+- Dauer: 24 aufeinander folgende Stunden ab der ersten Verbindung.
+- Gültigkeit: öffentlicher Bereich.
+- Anschluss von bis zu 3 Geräten.
+- Preis: 9,90€ incl. MwSt.
+",
+"t0022": "Für die NH Hotel Group bedeutet Nachhaltigkeit, die PERSONEN zu umsorgen, die bei uns untergekommen sind, die ZIELORTE zu umsorgen, an denen sich unsere Hotels befinden, und den PLANETEN zu umsorgen, den wir alle miteinander teilen.
+\r\nWir innovieren, um ökoeffiziente Lösungen zu entwickeln, sodass die Gäste in den NH-Hotels den Ort genießen und sich an einem gesunden Aufenthalt und Wohlbefinden erfreuen und gleichzeitig zum Schutz des Planeten beitragen können.
+\r\nAllgemein sind in den Hotels der NH Hotel Group zumindest die folgenden Umweltinitiativen implantiert.",
+"t0023": "Sämtliche Hotels kontrollieren monatlich den Verbrauch an Wasser und Energie sowie die CO2-Bilanz.",
+"t0024": "Sämtliche Hotels verbrauchen Elektrizität, die nachweislich aus erneuerbaren Energiequellen stammt.",
+"t0025": "Sämtliche Hotels recyceln das in der Küche gebrauchte Öl.",
+"t0026": "Wir sammeln die Korkstopfen für eine Weiterverwertung und machen daraus Wand- und Bodenbeläge für unsere Hotels, die sich in einer Umbauphase befinden.",
+"t0027": "Wir fördern den Konsum örtlicher und gesunder Lebensmittel.",
+"t0028": "Alle Events und Meetings in unseren Hotels sind Eco-Friendly, und der Gast hat die Möglichkeit, die CO2-Bilanz über drei soziale Projekte auszugleichen.",
+"t0029": "Wir haben ein Programm „Grüne Wäscherei“ implantiert.",
+"t0030": "In vielen unserer Hotels sind wir dabei, einen Car-sharing-Service einzurichten.",
+"t0031": "Wir beraten unsere Gäste zu den Angeboten der öffentlichen Verkehrsbetriebe.",
+"t0032": "Wir sind dabei, die Anzahl der Hotels mit einer Ladestation für Elektrofahrzeuge auszubauen.",
+"t0033": "In den wichtigsten Städten fördern wir die Nutzung von konventionellen und elektrischen Fahrrädern.",
+"t0034": "Die Anzahl dier Hotels wächst, die eine Zertifizierung nach ISO 140001 „Umweltmanagementsysteme', ISO 50001 'Energiemanagementsysteme' und EcoLíderes von TripAdvisor besitzen.",
+"t0035": "Benötigen Sie ein Ladegerät für Ihr Telefon?
+Möchten Sie zu einer bestimmten Uhrzeit geweckt werden?
+Soll ein Produkt im Badezimmer erneuert werden?
+Die Rezeption kümmert sich um alles, was Sie benötigen.",
+"t0036": "Rezeption anrufen",
+"t0037": "Rezeption",
+"t0038": "9",
+"t0039": "Anderes Zimmer",
+"t0040": "1 + Zimmernummer",
+"t0041": "Zentrum für Gästebetreuung",
+"t0042": "customercare@nh-hotels.com",
+"t0043": "Zimmerservice",
+"t0044": "3022",
+"t0045": "Anrufen",
+"t0046": "Kaufmännische Abteilung",
+"t0047": "3032",
+"t0048": "Anrufen",
+"t0049": "Für die Durchführung von Events verfügt das Hotel über eine Fläche von mehr als 1000 m2, die in 9 unabhängige Salons mit einer Höhe von maximal 4,75 m aufgeteilt werden kann. Sie alle zusammen können einen durchgehenden Raum mit einem Fassungsvermögen von maximal 650 Personen bilden.
+\r\nUnsere geräumigen Salons sind ein idealer Ort für unvergessliche Feiern, und unser Organisationsfachmann unterstützt Sie bei allem, was Sie benötigen könnten. 
+\r\nWir arbeiten auch mit dem in Hotelnähe gelegenen Auditorio Axa zusammen. Dies ist ein multifunktioneller Raum, der für die Durchführung von Events optimal geeignet ist.
+\r\n\r\n
+Dem Gast steht holografische Telepräsenz zur Verfügung, eine technische Neuerung, die eine Video- und Audiokommunikation von hoher Qualität zwischen den anwesenden Teilnehmern und denjenigen, die sich an einem anderen Ort befinden, und Präsenzmeetings in visueller Kollaboration der neuesten Generation ermöglicht.",
+"t0050": "Standort",
+"t0051": "Weitere Informationen erhalten Sie an der Rezeption.",
+"t0052": "Öffnungszeiten",
+"t0053": "Auf Ihre Veranstaltung zugeschnitten",
+"t0054": "Sie sollten wissen, dass das Hotelpersonal für Notfallsituationen ausgebildet und darauf trainiert worden ist.
+\r\nSollten Sie irgendeine Notfallsituation feststellen, teilen Sie diese unverzüglich der Hotelrezeption mit. Machen Sie dabei deutliche Angaben, was wo passiert.
+\r\nWir teilen Ihnen ebenfalls mit, dass Ihr Zimmer mit einem automatischen Rauchmelder versehen ist, der an die Brandschutzzentrale in der Hotelrezeption angeschlossen ist. Und hinter der Tür befindet sich ein Notfall-Evakuierungsplan.
+\r\nIn den Gängen der Stockwerke befinden sich weitere Evakuierungspläne, Handfeuerlöscher, Notfallknöpfe und Notbeleuchtung.
+\r\nSollte ein Brand in Ihrem Zimmer ausbrechen und Sie können das Telefon benutzen, rufen Sie so schnell wie möglich die Hotelrezeption an. Das Hotelpersonal wird Ihnen sagen, was zu tun ist.
+\r\nWenn Sie das Telefon auf dem Zimmer nicht benutzen können, gehen Sie auf den Gang hinaus und stellen Sie sicher, dass Sie die Tür hinter sich geschlossen haben. Informieren Sie unseren nächstbesten Mitarbeiter, den Sie treffen, oder drücken Sie einen Alarmknopf im Gang.
+",
+"t0055": "Sie müssen evakuieren, wenn Ihnen das Hotelpersonal oder der externe Hilfsdienst Ihnen die Anweisungen dazu gibt.
+\r\nWenn Sie die Anweisung zur Evakuierung bekommen, bewahren Sie die Ruhe, schreien Sie nicht, rennen Sie nicht, rempeln Sie nicht, gehen Sie nicht zurück, um vergessene persönliche Gegenstände aus dem Zimmer zu holen, sehen Sie sich nach dem nächsten Notausgang um und
+begeben Sie sich zu diesem und halten Sie ohne Pausen den Fluchtweg ein.
+\r\nBenutzen Sie keine Aufzüge, sondern die Treppen, und halten Sie sich auf dieser
+auf der rechten Seite.
+\r\nWenn Sie auf Fluchtwege treffen, in die Rauch eingedrungen ist, dann
+betreten Sie diese nicht. Bleiben Sie in einem sicheren Bereich, schließen Sie die Türen und teilen Sie diese
+Situation der Hotelrezeption mit. Wenn es möglich ist, legen Sie nasse Handtücher
+unter die Tür und lassen Sie sich am Fenster sehen.",
+"t0056": "Unser kleiner Fitnessraum verfügt über alles, was Sie für ein gutes Training benötigen. Eine Sauna ist ebenfalls vorhanden.\r\n
+Machen Sie Ihre täglichen Übungen im Fitnessraum im 5. Stock.\r\n
+Unser Fitnessraum ist mit den neuesten Maschinen der Marke Technogym für ein perfektes Training ausgestattet.\r\n
+Hier finden Sie:\r\n
+- Laufbänder, Crosstrainer und Indoorcycles\r\n
+- Gewichte\r\n
+- Sauna\r\n
+- Umkleideräume\r\n
+- Um Ihnen das Training angenehmer zu gestalten, finden Sie hier auch Handtücher, Obst und Getränke.
+",
+"t0057": "Standort",
+"t0058": "5. Stock",
+"t0059": "Öffnungszeiten",
+"t0060": "Montags bis sonntags und an Feiertagen von 07:00 bis 22:00 h",
+"t0061": "Unser Spa ist ein Rückzugsort zum Relaxen. Hier gibt es mehrere Schwimmbecken, Duschen und Whirlpools sowie private Säle für Schönheitsbehandlungen und Massagen.
+\r\n\r\n
+Was finden Sie im Spa?\r\n
+- Whirlpool\r\n
+- Sauna und Dampfbad\r\n
+- Kneipp-Rundweg mit Pool sowie warmen und kalten Duschen\r\n
+- Private Säle für Anwendungen und Massagen\r\n
+- Umkleideräume\r\n
+- Handtücher stehen Ihnen zur Verfügung\r\n
+\r\n\r\n
+Das Spa steht allen Hotelgästen sowie externen Kunden offen.\r\n
+Kinder dürfen nur während der ersten beiden Stunden in diese Installationen, und stets von einem Erwachsenen begleitet.",
+"t0062": "Standort",
+"t0063": "5. Stock",
+"t0064": "Öffnungszeiten",
+"t0065": "Montags: geschlossen
+Dienstags bis samstags:von 10:00 bis 21:00 h
+Sonntags: von 11:00 bis 17:00 h",
+"t0066": "Standort",
+"t0067": "Stockwerk Terrasse PT",
+"t0068": "Öffnungszeiten",
+"t0069": "Montags bis sonntags und an Feiertagen von 10:00 bis 21:00 h",
+"t0070": "Unser Freibad befindet sich auf dem obersten Stockwerk des Hotels.\r\n
+Genießen Sie diese Oase der Ruhe inmitten des Troubles im Finanzviertel der Stadt.",
+"t0071": "Im Schwimmbad stehen Ihnen zur Verfügung:\r\n
+- Liegen\r\n
+- Handtücher\r\n
+- Speisen und Getränke neben dem Pool",
+"t0072": "Guest Relations",
+"t0073": "Unser Guest Relations steht Ihnen für die Organisation Ihres Aufenthalts und zur Bearbeitung Ihrer Anfragen zur Verfügung.",
+"t0074": "Anrufen",
+"t0075": "Wäschereiservice",
+"t0076": "Eine Preisliste finden Sie im Kleiderschrank.",
+"t0077": "Öffnungszeiten",
+"t0078": "- Montags bis freitags von 10:00 bis 19:00 h\r\n- Samstags von 10:00 bis 15:00 h. \r\n- An Sonn und Feiertagen geschlossen.\r\n- Kleidung, die vor 10:00 h abgegeben worden ist, wird ohne Zuschläge am selben Tag zurück gegeben. Kleidung, die nach 10:00  h gebracht wird, wird am folgenden Tag zurück gegeben.\r\n- Bei Kleidung, die zwischen 10:00 und 14:00 h gebracht und die für denselben Tag benötigt wird (außer Reinigung), wird ein Zuschlag von 50% erhoben.",
+"t0079": "Parking",
+"t0080": "Für Hotelgäste vorhanden.",
+"t0081": "- 24€/Tag (incl. MwSt.)",
+"t0082": "Tarif",
+"t0083": " Safe",
+"t0084": "In Ihrem Zimmer befindet sich ein Safe, in dem Sie alle Ihre Wertsachen aufbewahren können.\r\n
+Das Hotel kann nicht für Objekte haften, die sich außerhalb des Safes befinden. Bitte achten Sie in den öffentlichen Bereichen des Hotels auf Ihre Wertgegenstände.",
+"t0085": "Sämtliche Sprachen",
+"t0086a": "An Tagen, an denen man nicht früh aufstehen muss und wir daheim frühstücken oder sogar unsere Lieben überraschen wollen, stellen wir Ihnen den Service „Frühstück auf dem Zimmer“ zur Verfügung.",
+"t0086b": "Wenn Sie diesen bestellen möchten, tuen Sie es am Vorabend und nicht später als 03:00 h in der Frühe.",
+"t0086c": "Wenn Sie bereits Frühstück inklusive gebucht haben, beträgt der Zuschlag 5 € pro Person.",
+"t0087": "UI SubSection Name",
+"t0088": "Um welche Uhrzeit möchten Sie das Frühstück serviert bekommen?",
+"t0089": "(dieser Service steht vormittags zwischen 7:00 und 11:00 h zur Verfügung).",
+"t0090": "New Text",
+"t0091": "Für wie viele Personen?",
+"t0092": "New Text",
+"t0093": "Teilen Sie uns Ihre Sonderwünsche oder Lebensmittelunverträglichkeiten mit:",
+"t0094": "New Text",
+"t0095": "Glutenunverträglichkeit",
+"t0096": "Weitere Kommentare",
+"t0097": "Text eingeben...",
+"t0098": "Laktoseunverträglichkeit",
+"t0099": "Weiter",
+"t0100": "Genießen Sie in der Bequemlichkeit Ihres Zimmers eine gesunde und innovative Erfahrung, die Ihren Gaumen mit der Frische, Qualität und Originalität unserer Speisekarte überraschen wird.
+\r\n\r\n
+Bei Bestellungen unter 9 € wird ein Zuschlag von 3 € erhoben.",
+"t0101": "Wenn Sie weitere Informationen zu Allergenen und Unverträglichkeit benötigen, fragen Sie unser Personal. Unsere Gerichte erfüllen den königlichen Erlass 1420/2006 über die Vorbeugung von Anisakiasis.",
+"t0102": "Öffnungszeiten",
+"t0103": "11:00 bis 23:00 h",
+"t0104": "Bestellung starten",
+"t0105": "Eine exzellente italienische Küche, geleitet von dem namhaften sizilianischen Chef Andrea Tumbarello. Das Restaurant Don Giovanni, Sitz der besten italienischen Gastronomie in Barcelona, in NH Collection Constanza, Barcelona, empfiehlt die Klassiker sowie neue Ideen in einem einmaligen Raum. Das Don Giovanni zu besuchen heißt, sich an einigen der sukkulentesten Gerichte des Chefs zu erfreuen, der auch als „König der Trüffeln“ bekannt ist.
+Auf Wunsch verfügt das Restaurant auch über ein Tagesmenü.",
+"t0106": "Standort",
+"t0107": "Parketage PP",
+"t0108": "Öffnungszeiten",
+"t0109": "Montags bis Sonntag von 13:00 bis 16:00 und von 19:30 bis 23:30 h",
+"t0110": "Anrufen",
+"t0111": "932811500",
+"t0112": "Speisekarte",
+"t0113": "Weinkarte",
+"t0114": "Die Cocktailbar, geleitet von dem beliebten Barkeeper Diego Cabrera.
+In der Parketage (Planta Parque, PP) bietet Ihnen unsere Cocktailbar exklusive Vorschläge, entworfen von einer internationalen Referenz, was das Getränkemixen angeht. Ein zeitgenössischer Raum, der einmalige Erfahrungen mit den besten Autorencocktails bietet. Eine Luxusmischung.
+
+Zu den Mittags- und Abendessenszeiten finden Sie hier auch eine reduzierte Karte des Restaurants Don Giovanni, einer exzellenten italienischen Küche, geleitet von dem namhaften sizilianischen Chef Andrea Tumbarello.",
+"t0115": "Standort",
+"t0116": "Parketage PP",
+"t0117": "Öffnungszeiten",
+"t0118": "Montags bis sonntags und an Feiertagen von 10:00 bis 01:00 h",
+"t0119": "Anrufen",
+"t0120": "932811500",
+"t0121": "Speisekarte",
+"t0122": "Cocktailkarte",
+"t0123": "Unser Frühstücksbüffet stellt sicher, dass Sie den Tag in einer gesunden und ausgeglichenen Weise mit frischen, jeden Morgen zubereiteten Produkten beginnen. Das Büffet enthält eine breite Vielfalt an frischen Säften, Backwaren, Wurstwaren, Käse, Joghurts, Brotsorten und vieles mehr. Sie können auch warme Gerichte nach Ihrem Geschmack bestellen.
+\r\nUnd wenn Sie abreisen müssen, bevor das Büffet eröffnet wird, fragen Sie an der Rezeption nach der Möglichkeit eines Frühstücks für Frühaufsteher.",
+"t0124": "Standort",
+"t0125": "Parketage PP",
+"t0126": "Öffnungszeiten",
+"t0127": "- Montags bis Samstag von 07:00 bis 11:00 h\r\n\r\n- An Sonn- und Feiertagen von 07:00 bis 12:00 h\r\n\r\n- Frühaufsteher-Frühstück: montags bis sonntags 05:00 bis 07:00 h",
+"t0128": "Kalte Getränke",
+"t0129": "Stilles Mineralwasser Voss 0,5 L",
+"t0130": "Mineralwasser mit Kohlensäure San Pellegrino 5 L",
+"t0131": "Coca Cola 20 cl.",
+"t0132": "Coca Cola Light 20 cl.",
+"t0133": "Coca Cola Zero 20 cl.",
+"t0134": "Fanta Orange ",
+"t0135": "Fanta Zitrone",
+"t0136": "Tonicwater Fever-Tree",
+"t0137": "Orangensaft Granini",
+"t0138": "Ananassaft Granini",
+"t0139": "Alkoholische Getränke",
+"t0140": "Heineken Bier",
+"t0141": "Einheimisches Bier",
+"t0142": "Rotwein Viña Pomal 50 cl.",
+"t0143": "Champagner Moët 20 cl.",
+"t0144": "Vodka Greu Goose 5 cl.",
+"t0145": "Gin No. 3 London Dry 10 cl.",
+"t0146": "Cognac Le Courvoisier 5 cl.",
+"t0147": "Schottischer Whisky The Macallan Amber 5 cl.",
+"t0148": "Ron Añejo Bacardi 8 Jahre 5 cl.",
+"t0149": "Schottischer Whisky White Label 5 cl.",
+"t0150": "Salzige Snacks ",
+"t0151": "Geröstete Mandeln NH Collection",
+"t0152": "Trockenobst-Cocktail NH Collection",
+"t0153": "Kartoffelchips San Nicasio",
+"t0154": "Kartoffelchips getrüffelt",
+"t0155": "Kartoffelchips Pringles",
+"t0156": "Süße Snacks ",
+"t0157": "Schokolade Lindt Excellence Orange",
+"t0158": "Schokolade Lindt Excelence Fleur de Sel",
+"t0159": "Schokolade Toblerone",
+"t0160": "Kekse Oreo",
+"t0161": "Haselnussriegel Hero Muesly",
+"t0162": "Schokoladenmandeln",
+"t0163": "Fruchtgummis NH Collection",
+"t0164": "Restaurant Don Giovanni",
+"t0165": "Cocktailbar",
+"t0166": "Frühstück",
+"t0167": "Minibar",
+"t0168": "Zimmerservice",
+"t0169": "Frühstück auf dem Zimmer",
+"t0170": "Vorspeisen",
+"t0171": "Salate",
+"t0172": "Nudeln",
+"t0173": "Brötchen",
+"t0174": "Hauptgerichte",
+"t0175": "Nachspeisen",
+"t0176": "Getränke",
+"t0177": "Alkoholische Getränke",
+"t0178": "Das Wetter",
+"t0179": "Der Verkauf von alkoholischen Getränken an Minderjährige unter 18 Jahren und ihr Konsum durch diese ist verboten.",
+"t0180": "Vielen Dank! Ihre Bestellung wird vorbereitet und anschließend auf Ihr Zimmer gebracht. Sie erhalten sie in ungefähr 20 Minuten*. Guten Appetit. /n *In einigen Ausnahmefällen kann es länger, bis maximal 40 Minuten, dauern.",
+"t0181": "Willkommen zu NH Collection. /n Berühren Sie zum Start den Bildschirm.",
+"t0182": "Es gibt eine Auswahl an Gerichten, die 24 Stunden täglich verfügbar sind.",
+"holdscreen_room": "Zimmer",
+"holdscreen_touch":"Berühren Sie zum Start den Bildschirm",
+"holdscreen_welcome":"Willkommen zu",
+"t9988":"SelectBreakfast",
+"t9989":"CheckoutBreakfast",
+"t9990":"CheckoutRoomService",
+"t9991":"CheckoutSuccess",
+"t9992":"Checkout",
+"t9993":"NH Rewards",
+"t9994":"Poll",
+"t9995":"Press",
+"t9996":"Front Desk Call",
+"t9997":"Environment",
+"t9998":"Useful",
+"t9999":"Home",
+}

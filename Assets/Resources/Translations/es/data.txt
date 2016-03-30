@@ -1,0 +1,3 @@
+{
+	"poll":"http://customersurvey.nh-hotels.com/nhsurveyqr/9f3c29e2-ddf4-4700-b0aa-f2ebba50112a/repeatAllowed/ES"
+}

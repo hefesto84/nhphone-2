@@ -1,0 +1,8 @@
+   {
+      "OpenWeatherAPIKEY": "8de228784b8e7b80ff483c9304fbb898",
+      "OpenWeatherCityID": "3128760",
+      "AsteriskIP": "192.168.1.200",
+      "AsteriskUsername":"5555",
+      "AsteriskPassword":"1234pbx",
+      "Room":100
+   }

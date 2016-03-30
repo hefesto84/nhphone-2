@@ -1,0 +1,285 @@
+{
+"t0000": "Benvingut a NH Collection",
+"t0001": "Trucar",
+"t0002": "Trucar a recepció",
+"t0003": "Servei d'habitacions",
+"t0004": "Serveis de l'hotel",
+"t0005": "Esmorzar a l'habitació",
+"t0006": "Trucada despertador",
+"t0007": "Guia de la ciutat",
+"t0008": "Premsa diària",
+"t0009": "Enquesta tauleta digital",
+"t0010": "Restaurant",
+"t0011": "Fitness Room",
+"t0012": "Spa",
+"t0013": "Piscina",
+"t0014": "Altres serveis",
+"t0015": "Wi-Fi",
+"t0016": "Telèfons d'interès",
+"t0017": "Canals TV",
+"t0018": "Reunions i esdeveniments",
+"t0019": "Instruccions de seguretat",
+"t0020": "Sostenibilitat",
+"wifi_title":"Wi-Fi gratuïta i de fàcil accés",
+"wifi_user":"- Usuari: nh",
+"wifi_password":"- Contrasenya: wifi",
+"wifi_premium_title":"Wifi Premium:",
+"wifi_premium1":"- Premium 24 hores: amplada de banda fins a 1Mb.",
+"wifi_premium2":"- Durada: 24 hores consecutives des de la primera connexió.",
+"wifi_premium3":"- Validesa: àrea pública.",
+"wifi_premium4":"- Connexió fins a 3 dispositius.",
+"wifi_premium_price":"Preu: 9,90 € Iva incl.",
+"t0021": "<b>Wi-Fi gratuïta i de fàcil accés</b>
+- Usuari: nh
+- Contrasenya: wifi
+
+<b>Wi-Fi Premium:</b>
+- Premium 24 hores: amplada de banda fins a 1Mb.
+- Durada: 24 hores consecutives des de la primera connexió.
+- Validesa: àrea pública.
+- Connexió fins a 3 dispositius.
+- Preu: 9,90 € Iva incl.
+",
+"t0022": "Per a NH Hotel Group, Sostenibilitat significa tenir cura de les PERSONES que s'hi allotgen, de les DESTINACIONS on els nostres hotels estan ubicats i del PLANETA que tots compartim.
+\r\nInnovem per desenvolupar solucions eco-eficients, de manera que, en els hotels NH, els clients puguin sentir l'emplaçament, gaudir d'una estada saludable i de benestar alhora que contribueixen a tenir cura del planeta.
+\r\nEn els hotels NH Hotel Group, en termes generals, estan implantades almenys les següents iniciatives mediambientals.",
+"t0023": "Tots els hotels controlen mensualment el consum d'aigua, energia i petjada de carboni.",
+"t0024": "Tots els hotels consumeixen electricitat amb certificat d'origen de fonts renovables.",
+"t0025": "Tots els hotels reciclen l'oli de cuina usat.",
+"t0026": "Recollim els taps de suro per reciclar-los i crear revestiments per a les parets i terres que utilitzem per als nostres hotels en reformes.",
+"t0027": "Promovem el consum d'aliments locals i saludables.",
+"t0028": "Tots els esdeveniments i reunions en els nostres hotels són Eco-Friendly i el client té l'opció de compensar la petjada de carboni a través de tres projectes socials.",
+"t0029": "Tenim implantat un programa de 'Bugaderia Verda'",
+"t0030": "Estem implantant el servei de car-sharing en molts dels nostres hotels.",
+"t0031": "Assessorem els nostres clients sobre les opcions de transport públic.",
+"t0032": "Estem ampliant el nombre d'hotels que disposen de punts de càrrega per a vehicles elèctrics.",
+"t0033": "Promovem l'ús de la bicicleta convencional i elèctrica a les principals ciutats.",
+"t0034": "Cada vegada tenim més hotels certificats segons els estàndards ISO 140001 'Sistema de Gestió Ambiental', ISO 50001 'Sistema de Gestió d'Energia' i EcoLíders de TripAdvisor.",
+"t0035": "Necessita un carregador per al seu telèfon?
+Llevar-se a una hora determinada?
+Que li reposem un producte de bany?
+A recepció estem a la seva disposició per a tot el que necessiti.",
+"t0036": "Trucar a recepció",
+"t0037": "Recepció",
+"t0038": "9",
+"t0039": "Una altra habitació",
+"t0040": "1 + número de l'habitació",
+"t0041": "Centre d'atenció al client",
+"t0042": "customercare@nh-hotels.com",
+"t0043": "Servei d'habitacions",
+"t0044": "3022",
+"t0045": "Trucar",
+"t0046": "Dpt. Comercial",
+"t0047": "3032",
+"t0048": "Trucar",
+"t0049": "L'hotel disposa de més de 1.000 m2 d'espais per organitzar esdeveniments amb 9 sales panelables i independents amb una alçària màxima de 4,75 m que juntes podrien arribar a formar un espai diàfan amb una capacitat màxima de 650 persones.
+\r\nLes nostres àmplies sales són el lloc ideal per a una celebració inoblidable i el nostre personal organitzador d'esdeveniments t'ajudarà en tot el que puguis necessitar. 
+\r\nTambé treballem amb l'Auditori Axa, proper a l'hotel. Aquest és un espai multifuncional, idoni per a la celebració d'esdeveniments.
+\r\n\r\n
+Tecnologia hologràfica 3D i de Telepresència a disposició del client, avenços que permeten una comunicació amb vídeo i àudio d'altra qualitat entre els participants -presents i remots- i reunions presencials de col·laboració visual d'última generació.",
+"t0050": "Localització",
+"t0051": "Consulti a recepció si desitja rebre informació",
+"t0052": "Horari",
+"t0053": "Personalitzat per al seu esdeveniment",
+"t0054": "Ha de saber que el personal de l'hotel ha estat format i entrenat per actuar en situacions d'emergències.
+\r\nSi vostè detecta qualsevol situació d'emergència, comuniqui-ho immediatament a la recepció de l'hotel, especificant clarament el que succeeix i on.
+\r\nTambé ha de saber que la seva habitació disposa de detecció de fums automàtica, connectada a la centraleta d'incendis de la recepció de l'hotel. I darrera la porta hi haurà un plànol d'evacuació.
+\r\nEn el passadís de la planta trobarà més plànols d'evacuació, extintors manuals, polsadors manuals d'alarma d'emergència i llums d'emergència.
+\r\nSi es produeix un incendi a la seva habitació, i pot trucar per telèfon, truqui a la recepció de l'hotel tant aviat com li sigui possible. El personal de l'hotel li indicarà el que ha de fer.
+\r\nSi no pot utilitzar el telèfon de l'habitació, surti al passadís de planta, assegurant-se de tancar la porta de la seva habitació darrera seu, i informi qualsevol empleat que trobi, o bé premi el polsador d'alarma del passadís.",
+"t0055": "Ha d'evacuar quan l'hi indiqui el personal de l'hotel, o els serveis externs d'ajuda.
+\r\nEn cas que li indiquin que ha d'evacuar, conservi la calma, no cridi, ni corri, ni empenyi, ni retrocedeixi per recollir efectes personals oblidats, reconegui les sortides d'emergència més properes i dirigeixi-s'hi
+ i, sense aturar-se, segueixi l'itinerari d'evacuació senyalitzat.
+\r\nNo usi els ascensors, només les escales, sempre a tocar del costat dret  mentre hi transita.
+\r\nSi troba les vies d'evacuació plenes de fum, no hi entri, quedi's en una zona segura, tancant les portes, i informant de
+ la situació a la recepció de l'hotel. Si pot, col·loqui tovalloles humides sota la porta i faci's veure per una finestra.",
+"t0056": "El nostre petit gimnàs disposa de tot el que necessita per a un bon entrenament. També disposa de sauna.\r\n
+Faci el seu exercici diari en el gimnàs de la planta 5.\r\n
+El nostre gimnàs està equipat amb màquines Technogym d'última generació per a un entrenament perfecte.\r\n
+En aquest espai trobarà:\r\n
+- Cintes per córrer, bicicletes estàtiques i màquines el·líptiques.\r\n
+- Peses\r\n
+- Sauna\r\n
+- Vestuaris\r\n
+- Disposa també de tovalloles, fruita i begudes per facilitar el seu entrenament.
+",
+"t0057": "Localització",
+"t0058": "Planta 5",
+"t0059": "Horari",
+"t0060": "De dilluns a diumenge i festius de 07.00 a 22.00 hores",
+"t0061": "El nostre spa és un refugi on relaxar-se. Disposa de diferents piscines, dutxes i jacuzzis, així com sales privades per a tractaments de bellesa i massatges.
+\r\n\r\n
+Què trobarà a l'spa?\r\n
+- Jacuzzi\r\n
+- Sauna i bany de vapor\r\n
+- Circuït aquàtic amb piscines i dutxes calentes i fredes\r\n
+- Sales privades per a tractaments i massatges\r\n
+- Vestuaris\r\n
+- Tovalloles a la seva disposició\r\n
+\r\n\r\n
+L'spa està obert per a tots els clients de l'hotel i clients externs.\r\n
+Els nens només poden accedir a les instal·lacions les 2 primeres hores del dia i sempre han de fer-ho acompanyats d'un adult.",
+"t0062": "Localització",
+"t0063": "Planta 5",
+"t0064": "Horari",
+"t0065": "Dilluns: tancat
+Dimarts a dissabte: de 10.00 a 21.00
+Diumenges: d'11.00 a 17.00",
+"t0066": "Localització",
+"t0067": "Planta terrassa PT",
+"t0068": "Horari",
+"t0069": "De dilluns a diumenge i festius, de 10.00 a 21.00 hores.",
+"t0070": "La nostra piscina a l'aire lliure es troba situada a l'última planta de l'hotel.\r\n
+Gaudeixi d'un oasi de pau enmig del xivarri del districte financer de la ciutat.",
+"t0071": "A la piscina té a la seva disposició:\r\n
+- Gandules\r\n
+- Tovalloles\r\n
+- Servei de menjar i beguda al costat de la piscina",
+"t0072": "Guest Relations",
+"t0073": "El nostre guest relations es troba a la seva disposició per organitzar la seva estada i per atendre les seves peticions.",
+"t0074": "Trucar",
+"t0075": "Servei de bugaderia",
+"t0076": "Consulti la llista de tarifes situada a l'armari.",
+"t0077": "Horari",
+"t0078": "- De dilluns a divendres, de 10.00 a 19.00 hores.\r\n- Dissabtes de 10.00 a 15.00 hores. \r\n- Diumenges i festius, tancat.\r\n- La roba entregada abans de les 10.00 hores, es retornarà en el mateix dia sense recàrrec. La roba entregada després de les 10.00 hores serà retornada el dia següent.\r\n- La roba entregada entre les 10.00 i les 14.00 hores i que sigui requerida per al mateix dia (excepte tintoreria) tindrà un recàrrec del 50%.",
+"t0079": "Pàrquing",
+"t0080": "Disponible per a clients de l'hotel.",
+"t0081": "- 24 €/dia (IVA, incl)",
+"t0082": "Tarifa",
+"t0083": " Caixa forta",
+"t0084": "A la seva habitació disposa d'una caixa forta on podrà dipositar tots els seus objectes de valor.\r\n
+L'hotel no es pot fer responsable dels objectes que es deixin fora de les caixes fortes. Si li plau, tingui cura de les seves pertinences a les zones públiques de l'hotel.",
+"t0085": "Tots els idiomes",
+"t0086a": "Per als moments en què no cal matinar, volem esmorzar com a casa o fins i tot sorprendre els nostres, disposem d'un servei d'esmorzar a l'habitació.",
+"t0086b": "Si el vol sol·licitar, faci-ho la nit anterior i no més tard de les 03.00 del matí.",
+"t0086c": "El cost addicional d'aquest servei, si vostè ja té l'esmorzar inclòs, és de 5 € per persona.",
+"t0087": "UI SubSection Name",
+"t0088": "A quina hora vol que li servim l'esmorzar?",
+"t0089": "Aquest servei pot sol·licitar-ho per ser lliurat a la seva habitacio entre les 7 a.m i les 11 a.m",
+"t0090": "New Text",
+"t0091": "Per a quantes persones?",
+"t0092": "New Text",
+"t0093": "Informi'ns d'alguna petició especial o intolerància alimentària:",
+"t0094": "New Text",
+"t0095": "Intolerant al gluten",
+"t0096": "Altres comentaris",
+"t0097": "Introdueixi text...",
+"t0098": "Intolerant a la lactosa",
+"t0099": "Continuar",
+"t0100": "Des de la comoditat de la seva habitació, gaudeixi d'una experiència sana i innovadora que sorprendrà el seu paladar per la frescor, qualitat i originalitat de la nostra carta.
+\r\n\r\n
+Suplement de 3 € per a comandes inferiors a 9 €",
+"t0101": "Si necessita informació en matèria d'al·lergògens i intoleràncies alimentàries, sol·liciti-la al nostre personal. Els nostres plats compleixen amb el RD 1420/2006 sobre prevenció de la parasitosi per Anisakis.",
+"t0102": "Horari",
+"t0103": "11.00 a 23.00 hores",
+"t0104": "Iniciar comanda",
+"t0105": "Excel·lent cuina italiana dirigida pel prestigiós Xef sicilià Andrea Tumbarello. El restaurant Don Giovanni, seu de la millor gastronomia italiana a Barcelona, a l'hotel NH Collection Barcelona Constanza, suggereix les clàssiques i noves propostes en un espai únic. Visitar Don Giovanni és delectar-se amb alguns dels plats més suculents del xef, conegut com a 'rei de la tòfona'.
+A més, si ho desitja, el restaurant disposa d'un menú del dia",
+"t0106": "Localització",
+"t0107": "Planta parc PP",
+"t0108": "Horari",
+"t0109": "De dilluns a diumenge de 13.00 a 16.00 i de 19.30 a 23.30",
+"t0110": "Trucar",
+"t0111": "932811500",
+"t0112": "Carta Menú",
+"t0113": "Carta de Vins",
+"t0114": "La cocteleria, tutelada per l'aclamat bàrman Diego Cabrera.
+La trobarà a la planta parc (PP), la nostra cocteleria ofereix propostes exclusives dissenyades pel referent internacional de la creació de còctels. Un espai contemporani dissenyat per acollir experiències úniques de la mà dels millors còctels d'autor. Una barreja de luxe.
+
+També trobarà disponible en horaris de dinar i sopar, una versió de carta reduïda del Restaurant Don Giovanni, excel·lent cuina italiana dirigida pel prestigiós Xef sicilià Andrea Tumbarello.",
+"t0115": "Localització",
+"t0116": "Planta parc PP",
+"t0117": "Horari",
+"t0118": "De dilluns a diumenge i festius de 10.00 a 01.00",
+"t0119": "Trucar",
+"t0120": "932811500",
+"t0121": "Carta Menú",
+"t0122": "Carta de Còctels",
+"t0123": "El nostre bufet d'esmorzar li assegura començar el dia d'una forma sana i equilibrada, amb productes frescos preparats cada matí. El bufet inclou una àmplia varietat de sucs naturals, brioixeria, embotits, formatges, fruita, iogurt, pans i molt més. També pot demanar plats calents al seu gust.
+\r\nA més, si ha de marxar abans que obri el bufet, pregunti a recepció per la possibilitat de l'esmorzar per a matinadors.",
+"t0124": "Localització",
+"t0125": "Planta parc PP",
+"t0126": "Horari",
+"t0127": "- De dilluns a dissabte, de 07.00 a 11.00 hores.\r\n\r\n- Diumenges i festius, de 07.00 a 12.00 hores.\r\n\r\n- Esmorzar matinadors: de dilluns a diumenge de 05.00 a 07.00",
+"t0128": "Begudes fredes",
+"t0129": "Aigua sense gas Voss 0,5 l",
+"t0130": "Aigua amb gas San Pellegrino 0,5 l",
+"t0131": "Coca-Cola 20 cl",
+"t0132": "Coca-Cola Light 20 cl",
+"t0133": "Coca-Cola Zero 20 cl",
+"t0134": "Fanta taronja",
+"t0135": "Fanta llimona",
+"t0136": "Tònica Fever-Tree Premium Indian",
+"t0137": "Suc de taronja Granini",
+"t0138": "Suc de pinya Granini",
+"t0139": "Begudes amb alcohol",
+"t0140": "Cervesa Heineken",
+"t0141": "Cervesa local",
+"t0142": "Vi negre Viña Pomal 50 cl",
+"t0143": "Xampany Moët 20 cl",
+"t0144": "Vodka Greu Goose 5 cl",
+"t0145": "Nº London Dry Gin 10 cl",
+"t0146": "Cognac Le Courvoisier 5 cl",
+"t0147": "Whisky Escocès The Macallan Amber 5 cl",
+"t0148": "Rom Añejo Bacardi 8 anys 5 cl",
+"t0149": "Whisky Escocès White Label 5 cl",
+"t0150": "Snacks salats",
+"t0151": "Ametlles fregides NH Collection",
+"t0152": "Còctel fruites seques NH Collection",
+"t0153": "Patates fregides San Nicasio",
+"t0154": "Patates fregides amb tòfona",
+"t0155": "Patates fregides Pringles",
+"t0156": "Snacks dolços",
+"t0157": "Xocolata Lindt Excellence taronja",
+"t0158": "Xocolata Lindt Excellence Flor de Sal",
+"t0159": "Xocolata Toblerone",
+"t0160": "Galetes Oreo",
+"t0161": "Barreta Avellana Hero Muesly",
+"t0162": "Ametlla de xocolata",
+"t0163": "Pectines de fruita NH Collection",
+"t0164": "Restaurant Don Giovanni",
+"t0165": "Cocktail Bar",
+"t0166": "Esmorzar",
+"t0167": "Minibar",
+"t0168": "Servei d'habitacions",
+"t0169": "Esmorzar a l'habitació",
+"t0170": "Entrants",
+"t0171": "Amanides",
+"t0172": "Pasta",
+"t0173": "Entrepans",
+"t0174": "Plats principals",
+"t0175": "Postres",
+"t0176": "Begudes",
+"t0177": "Begudes amb alcohol",
+"t0178": "El temps",
+"t0179": "Es prohibeix la venda i subministrament de begudes alcohòliques a menors de 18 anys i el seu consum a menors",
+"t0180": "Moltes gràcies. La seva comanda s'està preparant per poder-la pujar el més aviat possible a la seva habitació, la rebrà en aproximadament 20 minuts*. Bon profit. /n *En casos excepcionals el temps pot ser superior, amb un màxim de 40 minuts.",
+"t0181": "Benvingut a NH Collection. \r\n Toqui la pantalla per començar",
+"t0182": "Hi ha una selecció de plats que estan disponibles les 24 hores",
+"holdscreen_room": "Habitació",
+"holdscreen_touch":"Toqui la pantalla per començar",
+"holdscreen_welcome":"Benvingut a",
+"t9700":"Moltes gràcies.
+\r\nLa seva comanda està sent preparat per pujar-la com més aviat millor a la seva habitació, la rebrà en aproximadament 20 minuts*.
+\r\nBon profit",
+"t9701":"*En casos excepcionales el timepo puedo ser superior, con un máximo de 40 minutos",
+"t9800":"Recepta lleugera en calories",
+"t9801":"Recepta vegetariana",
+"t9802":"Sense gluten",
+"t9803":"Servei 24 hores",
+"t9804":"Plat estrella",
+"t9988":"Seleccioneu esmorzar",
+"t9989":"CheckoutBreakfast",
+"t9990":"Finalitzar comanda",
+"t9991":"Comanda finalitzada",
+"t9992":"Checkout",
+"t9993":"NH Rewards",
+"t9994":"Poll",
+"t9995":"Press",
+"t9996":"Front Desk Call",
+"t9997":"Environment",
+"t9998":"Useful",
+"t9999":"Home",
+"t0101b":"Hi ha una selecció de plats que estan disponibles les 24 hores",
+"t0101c":"Es prohibeix la venda i subministrament de begudes alcohòliques a menors de 18 anys i el seu consum pels mateixos.",
+}

@@ -1,0 +1,272 @@
+{
+"t0000": "Welkom bij NH Collection",
+"t0001": "Telefoon",
+"t0002": "Receptie bellen",
+"t0003": "Roomservice",
+"t0004": "Diensten van het hotel",
+"t0005": "Ontbijt op de kamer",
+"t0006": "Wekservice",
+"t0007": "Gids van de stad",
+"t0008": "Dagbladen",
+"t0009": "Enquête tablet",
+"t0010": "Restaurant",
+"t0011": "Fitnessruimte",
+"t0012": "Spa",
+"t0013": "Zwembad",
+"t0014": "Andere diensten ",
+"t0015": "Wifi",
+"t0016": "Belangrijke telefoonnummers",
+"t0017": "TV kanalen",
+"t0018": "Vergaderingen en evenementen",
+"t0019": "Veiligheidsinstructies",
+"t0020": "Duurzaamheid",
+"wifi_title":"Gratis WiFi dat makkelijk toegankelijk is",
+"wifi_user":"- Gebruiker: nh",
+"wifi_password":"- Wachtwoord: wifi",
+"wifi_premium_title":"Wifi Premium:",
+"wifi_premium1":"- Premium 24 uur: breedband tot 1Mb.",
+"wifi_premium2":"- Duur: 24 aaneengesloten uren vanaf de eerste verbinding.",
+"wifi_premium3":"- Geldig in: openbare ruimte.",
+"wifi_premium4":"- Aansluiting voor maximaal 3 apparaten.",
+"wifi_premium_price":"Prijs: 9,90€ incl BTW",
+"t0021": "<b>Gratis WiFi dat makkelijk toegankelijk is</b>
+- Gebruiker: nh
+- Wachtwoord: wifi
+
+<b>Wifi Premium:</b>
+- Premium 24 uur: breedband tot 1Mb.
+- Duur: 24 aaneengesloten uren vanaf de eerste verbinding.
+- Geldig in: openbare ruimte.
+- Aansluiting voor maximaal 3 apparaten.
+- Prijs: 9,90€ incl BTW.
+",
+"t0022": "Voor de NH Hotel Group betekent duurzaamheid dat wij zorgen voor de PERSONEN die bij ons overnachten, dat wij zorgen voor de BESTEMMINGEN waar onze hotels zich bevinden en dat wij zorgen voor de PLANEET die wij allen delen.
+\r\nWij innoveren om eco-efficiënte oplossingen te ontwikkelen, op een manier in NH hotels de gasten zich verbonden voelen met de locatie, genieten van een gezond verblijf vol welzijn en tegelijkertijd een bijdrage leveren aan het behoud van de planeet. ",
+"t0023": "In al onze hotels wordt maandelijks het water- en energieverbruik en de CO2-voetafdruk bijgehouden.",
+"t0024": "Alle elektriciteit die in onze hotels wordt gebruikt is afkomstig uit hernieuwbare bronnen met certificaat van oorsprong.",
+"t0025": "In al onze hotels wordt de olie die in de keukens gebruikt wordt gerecycled.",
+"t0026": "Wij verzamelen de flessenkurken om die te recyclen en bekleding te maken voor de wanden en vloeren en die gebruiken wij voor onze hotels die gerenoveerd worden.",
+"t0027": "Wij bevorderen de consumptie van plaatselijke, gezonde voedingsmiddelen.",
+"t0028": "Alle evenementen en bijeenkomstne in onze hotels zijn Eco-Friendly en de gast wordt de mogelijkheid geborden zijn CO2-voetafdruk te compenseren middels 3 sociale projecten. ",
+"t0029": "Wij hebben een 'Groene Wasserette' programma ingevoerd. ",
+"t0030": "Wij zijn op dit moment bezig om in het meerendeel van onze hotels een car-sharing dienst op te zetten. ",
+"t0031": "Wij informeren onze gasten over de mogelijkheden die het openbaar vervoer biedt.",
+"t0032": "Wij zijn het aantal hotels dat beschikt over oplaadpunten voor elektrische voertuigen aan het uitbreiden. ",
+"t0033": "Wij bevorderen het gebruik van gewone en elektrische fietsen in de voornaamste steden.",
+"t0034": "Wij hebben steeds meer hotels die ISO 14001 'Milieumanagement' en ISO 50001 'Energiemanagement' gecertificeerd zijn. En tevens bezitten zij de kwalificatie Eco-leader toegekend door TripAdvisor.",
+"t0035": "Heeft u een oplader nodig voor uw telefoon? 
+Moet u om een bepaalde tijd gewekt worden? 
+Moeten er badproducten vervangen worden? 
+Wij van receptie staan tot uw beschikking. ",
+"t0036": "Receptie bellen",
+"t0037": "Receptie",
+"t0038": "9",
+"t0039": "Andere kamer",
+"t0040": "1 + het kamernummer",
+"t0041": "Klantenservice",
+"t0042": "customercare@nh-hotels.com",
+"t0043": "Roomservice",
+"t0044": "3022",
+"t0045": "Telefoon",
+"t0046": "Commerciële afdeling",
+"t0047": "3032",
+"t0048": "Telefoon",
+"t0049": "Het hotel heeft meer dan 1000m2 ruimte beschikbaar voor het organiseren van evenementen in zijn  9 onafhankelijke zalen met bedienbare muren, die een maximum hoogte van 4,75 m hebben en die tezamen een open ruimte kunnen vormen met een maximum capaciteit van 650 personen. 
+\r\nOnze ruime zalen zijn ideaal voor een onvergetelijke gelegenheid, en onze professionele planners bieden u alle mogelijke ondersteuning.
+\r\nWij werken tevens samen met het Axa Auditorium naast het hotel. Dit is een multifunctionele ruimte, ideaal voor het houden van evenementen. 
+\r\n\r\n
+Wij stellen de gast holografische 3D technologie en teleconferentie ter beschikking, deze nieuwe technologieën maken het mogelijk dat de deelnemers - aanwezig en zij die zich in een andere locatie bevinden - met elkaar kunnen communiceren via video en audio, ook is het mogelijk hier de meest geavanceerde virtuele vergaderingen te houden. ",
+"t0050": "Ligging",
+"t0051": "Voor meer informatie kunt u contact opnemen met receptie.",
+"t0052": "Openingstijden",
+"t0053": "Gepersonaliseerd voor uw evenement",
+"t0054": "U moet weten dat het personeel van het hotel opgeleid en getraind is om op te treden in noodsituaties. 
+\r\nWanneer u getuige bent van een noodsituatie moet u dat onmiddellijk meedelen aan de receptie van het hotel en duidelijk uitleggen wat er aan de hand is en waar.
+\r\nTevens moet u weten dat uw kamer uitgerust is met een automatisch rookalarm dat verbonden is met de brandcentrale van de receptie van het hotel. En binnen op de deur is een ontruimingsplattegrond bevestigd.  
+\r\nIn de gang van iedere verdieping hangen meer ontruimingsplattegronden, handbrandblusapparaten, handbediende noodalarmen en er is noodverlichting. 
+\r\nIndien uw kamer in brand staat en u kunt nog telefoneren, bel dan zo snel mogelijk de receptie van het hotel. Het personeel zegt u dan wat u moet doen. 
+\r\nAls u niet kunt telefoneren vanuit de kamer, ga dan naar de gang en sluit de deur van uw kamer zorgvuldig achter u, en als u een hotelmedewerker dichtbij ziet vertel die dan wat er aan de hand is, of druk op een van de alarmknoppen in de gang. ",
+"t0055": "U dient het hotel te verlaten wanneer u dat opgedragen wordt door het personeel of de externe hulpdiensten. 
+\r\nIn het geval dat zij zeggen dat het hotel ontruimd moet worden blijf dan kalm en begin niet te schreeuwen of te rennen of te duwen, noch kunt u teruggaan om uw bezittingen op te halen, kijk waar de dichtstbijzijnde nooduitgang is en ga daar dan zonder dralen naartoe, volg de route die aangegeven is op de ontruimingsplattegrond. 
+\r\nGebruik nooit de lift, alleen de trappen, en houdt op de trap rechts aan. 
+\r\nAls u ziet dat er rook uit de nooduitgangen komt, neem die dan niet, begeef u naar een veilige zone, doe de deuren dicht en breng de receptie van het hotel op de hoogte van uw situatie. Als dat mogelijk is, dient u natte handdoeken onderaan de deur te leggen en ga voor het raam staan zodat men u kan zien. ",
+"t0056": "Onze kleine fitnessruimte is uitgerust met alles wat u nodig hebt voor een goede workout. \r\n
+Tevens is er een sauna.\r\n
+U kunt dagelijks sporten in de fitnessruimte op de 5e verdieping. \r\n
+Om u een perfecte workout te bieden is nze fitnessruimte uitgerust met de allernieuwste Technogym apparaten. \r\n
+Tevens is deze ruimte voorzien van: \r\n
+- Loopbanden, hometrainers en crosstrainers\r\n
+- Gewichten\r\n
+- Sauna\r\n
+- Kleedruimtes\r\n
+- Er zijn tevens handdoeken, fruit en drankjes die uw workout vergemakkelijken. ",
+"t0057": "Ligging",
+"t0058": "5e verdieping",
+"t0059": "Openingstijden",
+"t0060": "Maandag tot zondag en op feestdagen geopend van 07:00 tot 22:00 uur",
+"t0061": "Onze spa is een toevluchtsoord waar u zich kunt ontspannen. Er zijn diverse zwembaden, douches en jacuzzi's, tevens zijn er privé ruimtes voor schoonheidsbehandelingen en massages. 
+\r\n\r\n
+Wat heeft de spa u te bieden?\r\n
+- Jacuzzi\r\n
+- Sauna en stoombad\r\n
+- Water circuit met zwembaden en warme en koude douches\r\n
+- Privé ruimtes voor behandelingen en massages\r\n
+- Kleedruimtes\r\n
+- Handdoeken service\r\n
+\r\n\r\n
+De spa is toegankelijk voor alle gasten van het hotel en ook niet gasten van buiten het hotel.\r\n
+Kinderen mogen de spa alleen de eerste twee uren van de dag bezoeken en moeten altijd vergezeld worden door een volwassene.",
+"t0062": "Ligging",
+"t0063": "5e verdieping",
+"t0064": "Openingstijden",
+"t0065": "Maandag: gesloten
+Dinsdag tot zaterdag: van 10:00 tot 21:00 u
+Zondag: van 11:00 tot 17:00 u",
+"t0066": "Ligging",
+"t0067": "Terrasverdieping PT",
+"t0068": "Openingstijden",
+"t0069": "Maandag tot zondag en op feestdagen geopend van 10:00 tot 21:00 uur",
+"t0070": "Ons openluchtzwembad bevindt zich op de bovenste verdieping van het hotel.\r\n
+Geniet hier van een oase van rust te midden van de drukte van het financiële district van de stad.",
+"t0071": "Bij het zwembad zijn er voor u:\r\n
+- Ligbedden\r\n
+- Handdoeken\r\n
+- Een eet- en drink service naast het zwembad",
+"t0072": "Guest Relations",
+"t0073": "Onze afdeling Guest Relations staat tot uw beschikking om uw verblijf te organiseren en aan uw verzoeken te voldoen. ",
+"t0074": "Telefoon",
+"t0075": "Wasserette service",
+"t0076": "Zie de lijst met tarieven op de kastdeur.",
+"t0077": "Openingstijden",
+"t0078": " - Van maandag tot vrijdag van 10:00 tot 19:00 uur.\r\n- Zaterdag van 10:00 tot 15:00 uur.\r\n.- Zon en feestdagen, gesloten. \r\n- De kleding die voor 10:00 uur is afgeleverd wordt zonder toeslag dezelfde dag gewassen en terugbezorgd. De kleding die na 10:00 uur wordt afgegeven wordt de volgende dag terugbezorgd.\r\n- Voor de kleding die afgegeven wordt tussen 10:00 en 14:00 uur en die dezelfde dag terugbezorgd moet worden (m.u.v. de stomerij) wordt een toeslag berekend van 50%",
+"t0079": "Parking",
+"t0080": "Beschikbaar voor de gasten van het hotel.",
+"t0081": " - 24€/dag (incl. BTW). ",
+"t0082": "Tarief",
+"t0083": "Kluis",
+"t0084": "Op uw kamer is een kluis aanwezig waar u uw waardevolle zaken in kunt opbergen. \r\n
+Het hotel stelt zich niet aansprakelijk voor de voorwerpen die niet in de kluizen zijn opgeborgen. En wij verzoeken u goed op uw bezittingen te letten in de openbare ruimtes van het hotel. ",
+"t0085": "Alle talen",
+"t0086a": "Voor die dagen dat wij niet vroeg hoeven op te staan, net als thuis willen ontbijten of iemand willen verrassen, bieden wij u de mogelijkheid van ontbijt op de kamer.",
+"t0086b": "Als u van deze mogelijkheid gebruik wenst te maken vraag dat dan de avond van tevoren aan, en nooit later dan 03:00 's nachts.",
+"t0086c": "De extra kosten voor deze service, indien uw ontbijt reeds bij uw overnachting was inbegrepen is 5€ per persoon.",
+"t0087": "UI SubSection Name",
+"t0088": "Hoe laat wilt u dat wij uw ontbijt serveren?",
+"t0089": "(dienst beschikbaar van 07:00 tot 11:00 am)",
+"t0090": "New Text",
+"t0091": "Voor hoeveel personen?",
+"t0092": "New Text",
+"t0093": "Laat ons weten of u een speciaal verzoek of voedselallergie hebt. ",
+"t0094": "New Text",
+"t0095": "Glutenintolerantie",
+"t0096": "Overige opmerkingen",
+"t0097": "Voer tekst in .. ",
+"t0098": "Lactose intolerantie",
+"t0099": "Verder",
+"t0100": "Vanuit het comfort van uw kamer kunt u genieten van een gezonde, innoverende ervaring die uw smaakpapillen zal verrassen vanwege de versheid, kwaliteit en originaliteit van onze menukaart. 
+\r\n\r\n
+3 € toeslag voor bestellingen onder 9 €.",
+"t0101": "Als u meer informatie nodig heeft over voedselallergieën of -intoleranties raadpleeg dan ons personeel. Al onze gerechten voldoen aan de RD 1420/2006 norm inzake de preventie van parasitose veroorzaakt door anisakis.
+",
+"t0102": "Openingstijden",
+"t0103": "11:00 tot 23:00 uur",
+"t0104": "Begin bestelling",
+"t0105": "Voortreffelijke Italaanse keuken onder leiding van de prestigieuze Siciliaanse chef Andrea Tumbarello. Het restuarant Don Giovanni, dat de beste Italiaanse gastronomie van Barcelona biedt, bevindt zich in het hotel NH Collection Barcelona Constanza, en biedt u klassieke en nieuwe eetervaringen in een unieke omgeving. Een bezoek brengen aan Don Giovanni, is genieten van enkele de smakelijkste gerechten van de Chef, bekend onder de naam 'koning van de truffel'.
+Indien gewenst kan het restaurant u ook een dagmenu bieden.",
+"t0106": "Ligging",
+"t0107": "Tuinverdieping PP",
+"t0108": "Openingstijden",
+"t0109": "Maandag tot zondag van 13:00 tot 16:00 en van 19:30 tot 23:30",
+"t0110": "Telefoon",
+"t0111": "932811500",
+"t0112": "Menukaart",
+"t0113": "Wijnkaart",
+"t0114": "De cocktailbar onder leiding van de befaamde bartender Diego Cabrera.
+Deze bevindt zich op de tuinverdieping (PP), onze cocktailbar biedt u exclusieve drankjes, persoonlijk ontworpen door deze grote naam in de internationale mixology wereld. De bar bevindt zich in een moderne ruimte die ontworpen is voor het genieten van unieke ervaringen aan de hand van de beste signature cocktails. Een hele luxe. 
+
+Tevens bestaat hier gedurende lunch en diner tijden de mogelijkheid gerechten te bestellen van een beperkte menukaart van het restaurant Don Giovanni, met zijn voortreffelijke Italiaanse keuken o.l.v. de prestigieuze Siciliaanse chef Andrea Tumbarello.  ",
+"t0115": "Ligging",
+"t0116": "Tuinverdieping PP",
+"t0117": "Openingstijden",
+"t0118": "Maandag tot zondag en feestdagen van 10:00 tot 01:00 ",
+"t0119": "Telefoon",
+"t0120": "932811500",
+"t0121": "Menukaart",
+"t0122": "Cocktail kaart",
+"t0123": "Ons ontbijtbuffet biedt u alles dat u nodig heeft om de dag gezond en evenwichtig te beginnen, met producten die iedere ochtend vers bereid worden. Het buffet biedt een grote variëteit aan verse vruchtensappen, banketbakkerswaren, vleeswaren, kaas, fruit, yoghurt, brood en nog veel meer. U kunt ook warme gerechten bestellen. 
+\r\nDaarnaast bieden wij u, indien u moet vertrekken voordat het buffet open is, de mogelijkheid de receptie te verzoeken dat voor u een ontbijt voor vroege vogels bereid wordt. ",
+"t0124": "Ligging",
+"t0125": "Tuinverdieping PP",
+"t0126": "Openingstijden",
+"t0127": " - Maandag tot zaterdag van 07:00 tot 11:00 uur.\r\n\r\n- Zon- en feestdagen van 07:00 tot 12:00 uur.\r\n\r\n- Ontbijt voor vroege vogels: maandag tot zondag van 05:00 tot 07:00 uur. ",
+"t0128": "Koude dranken",
+"t0129": "Mineraalwater Voss 0,5 l.",
+"t0130": "Koolzuurhoudend mineraalwater San Pellegrino 0,5 l.",
+"t0131": "Coca-Cola 20 cl.",
+"t0132": "Coca-Cola Light 20 cl.",
+"t0133": "Coca-Cola Zero 20 cl.",
+"t0134": "Fanta Orange",
+"t0135": "Fanta Citroen",
+"t0136": "Fever-Tree tonic",
+"t0137": "Grannini Sinaasappelsap",
+"t0138": "Grannini Ananassap",
+"t0139": "Alcoholische dranken",
+"t0140": "Heineken bier",
+"t0141": "Plaatselijk bier",
+"t0142": "Rode Wijn Viña Pomal 50 cl.",
+"t0143": "Champagne Moët 20 cl.",
+"t0144": "Greu Goose Vodka 5cl.",
+"t0145": "Nº 3 London Dry Gin 10 cl.",
+"t0146": "Cognac Le Courvoisier 5 cl.",
+"t0147": "Schotse Whisky The Macallan Amber 5 cl.",
+"t0148": "Bacardi Añejo rum 8 jaar oud 5 cl.",
+"t0149": "Schotse Whisky White Label 5 cl.",
+"t0150": "Zoute snacks",
+"t0151": "Geroosterde amandelen NH Collection ",
+"t0152": "Notenmix NH Collection ",
+"t0153": "San Nicasio chips",
+"t0154": "Chips met truffel",
+"t0155": "Pringles chips",
+"t0156": "Zoete snacks",
+"t0157": "Lindt Chocolade Excellence Orange ",
+"t0158": "Lindt Chocolade Excellence Pointe de Fleur de Sel",
+"t0159": "Toblerone chocolade",
+"t0160": "Oreo koekjes",
+"t0161": "Hero Muesli granenreep",
+"t0162": "Amandelen met chocolade",
+"t0163": "Vruchten snoepjes NH Collection",
+"t0164": "Restaurant Don Giovani",
+"t0165": "Cocktail Bar",
+"t0166": "Ontbijt",
+"t0167": "Minibar",
+"t0168": "Roomservice",
+"t0169": "Ontbijt op de kamer",
+"t0170": "Voorgerechten",
+"t0171": "Salades",
+"t0172": "Pasta",
+"t0173": "Sandwiches",
+"t0174": "Hoofdgerechten",
+"t0175": "Desserts",
+"t0176": "Dranken",
+"t0177": "Alcoholische dranken",
+"t0178": "Weerbericht",
+"t0179": "Het is verboden alcoholische dranken te verkopen en te verstrekken aan jongeren onder de 18, evenals het consumeren daarvan door deze jongeren.",
+"t0180": "Hartelijk dank. Wij zijn uw bestelling aan het bereiden om die zo snel mogelijk naar uw kamer te kunnen brengen, dat duurt ongeveer 20 minuten*. Eet smakelijk. /n *In uitzonderlijke gevallen kan het iets langer duren, maar nooit meer dan 40 minuten. ",
+"t0181": "Welkom bij NH Collection. /n Raak het scherm aan om te beginnen.",
+"t0182": "Een aantal gerechten is 24 uur per dag beschikbaar",
+"holdscreen_room": "Kamer",
+"holdscreen_touch":"Raak het scherm aan om te beginnen",
+"holdscreen_welcome":"Welkom bij",
+"t9988":"SelectBreakfast",
+"t9989":"CheckoutBreakfast",
+"t9990":"CheckoutRoomService",
+"t9991":"CheckoutSuccess",
+"t9992":"Checkout",
+"t9993":"NH Rewards",
+"t9994":"Poll",
+"t9995":"Press",
+"t9996":"Front Desk Call",
+"t9997":"Environment",
+"t9998":"Useful",
+"t9999":"Home",
+}

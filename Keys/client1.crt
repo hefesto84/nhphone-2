@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ES, ST=CAT, L=Barcelona, O=Ubiqua, OU=ubiqua, CN=ubiqua/name=ubiqua/emailAddress=dani@ubiqua.es
+        Validity
+            Not Before: Feb  1 10:53:54 2016 GMT
+            Not After : Jan 29 10:53:54 2026 GMT
+        Subject: C=ES, ST=CAT, L=Barcelona, O=Ubiqua, OU=ubiqua, CN=client1/name=ubiqua/emailAddress=dani@ubiqua.es
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:be:53:41:0c:15:d1:9c:14:f4:f5:da:2a:78:81:
+                    ac:08:b8:79:75:7c:f6:c5:f1:f7:6f:10:ff:c8:3f:
+                    44:ed:8d:91:a7:93:90:3f:eb:98:56:ea:76:0b:98:
+                    93:c3:46:af:f3:2b:96:1f:7f:69:a4:6d:13:4c:ac:
+                    6a:8a:b1:3e:80:35:e5:21:61:c3:72:2a:93:b6:a6:
+                    4e:90:d0:e9:3f:c4:3f:71:f3:79:9a:66:eb:60:23:
+                    00:c6:b0:f3:e8:51:82:54:b1:1c:9e:99:6b:0a:07:
+                    cf:b8:d8:60:cc:5a:6d:ae:3a:89:66:12:bc:3d:c6:
+                    0e:25:da:3b:bd:70:56:de:a9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                3A:73:5C:FF:BD:76:67:B1:2F:69:B0:8A:3F:40:0E:27:34:67:01:1A
+            X509v3 Authority Key Identifier: 
+                keyid:4D:01:F0:3C:58:2E:09:10:26:95:6C:EE:3D:F7:BE:F9:C5:EF:47:3C
+                DirName:/C=ES/ST=CAT/L=Barcelona/O=Ubiqua/OU=ubiqua/CN=ubiqua/name=ubiqua/emailAddress=dani@ubiqua.es
+                serial:8C:B7:CE:09:12:14:03:96
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         05:d2:cf:9f:d9:38:5f:f1:de:c5:f2:6a:56:1a:87:55:ff:8c:
+         87:e0:2c:63:87:84:00:aa:18:f9:30:c4:0d:b5:b6:9a:a7:8a:
+         a9:97:96:61:7d:af:25:00:1f:82:31:f3:80:a8:71:a1:38:64:
+         a4:70:7c:03:60:ce:9e:d3:67:40:81:e6:38:98:c6:8c:73:d2:
+         58:80:e2:76:98:45:06:4f:9c:bc:e4:17:6d:94:d3:28:5f:8e:
+         37:e7:63:24:18:d7:3d:3d:a7:75:6e:12:9f:94:64:69:0e:9a:
+         92:f0:5d:7a:9c:63:78:0e:b9:ad:e2:df:86:0c:9a:58:0b:53:
+         aa:0c
+-----BEGIN CERTIFICATE-----
+MIID6DCCA1GgAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBkjELMAkGA1UEBhMCRVMx
+DDAKBgNVBAgTA0NBVDESMBAGA1UEBxMJQmFyY2Vsb25hMQ8wDQYDVQQKEwZVYmlx
+dWExDzANBgNVBAsTBnViaXF1YTEPMA0GA1UEAxMGdWJpcXVhMQ8wDQYDVQQpEwZ1
+YmlxdWExHTAbBgkqhkiG9w0BCQEWDmRhbmlAdWJpcXVhLmVzMB4XDTE2MDIwMTEw
+NTM1NFoXDTI2MDEyOTEwNTM1NFowgZMxCzAJBgNVBAYTAkVTMQwwCgYDVQQIEwND
+QVQxEjAQBgNVBAcTCUJhcmNlbG9uYTEPMA0GA1UEChMGVWJpcXVhMQ8wDQYDVQQL
+EwZ1YmlxdWExEDAOBgNVBAMTB2NsaWVudDExDzANBgNVBCkTBnViaXF1YTEdMBsG
+CSqGSIb3DQEJARYOZGFuaUB1YmlxdWEuZXMwgZ8wDQYJKoZIhvcNAQEBBQADgY0A
+MIGJAoGBAL5TQQwV0ZwU9PXaKniBrAi4eXV89sXx928Q/8g/RO2NkaeTkD/rmFbq
+dguYk8NGr/Mrlh9/aaRtE0ysaoqxPoA15SFhw3Iqk7amTpDQ6T/EP3HzeZpm62Aj
+AMaw8+hRglSxHJ6ZawoHz7jYYMxaba46iWYSvD3GDiXaO71wVt6pAgMBAAGjggFJ
+MIIBRTAJBgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0
+ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFDpzXP+9dmexL2mwij9ADic0ZwEaMIHH
+BgNVHSMEgb8wgbyAFE0B8DxYLgkQJpVs7j33vvnF70c8oYGYpIGVMIGSMQswCQYD
+VQQGEwJFUzEMMAoGA1UECBMDQ0FUMRIwEAYDVQQHEwlCYXJjZWxvbmExDzANBgNV
+BAoTBlViaXF1YTEPMA0GA1UECxMGdWJpcXVhMQ8wDQYDVQQDEwZ1YmlxdWExDzAN
+BgNVBCkTBnViaXF1YTEdMBsGCSqGSIb3DQEJARYOZGFuaUB1YmlxdWEuZXOCCQCM
+t84JEhQDljATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZI
+hvcNAQEFBQADgYEABdLPn9k4X/HexfJqVhqHVf+Mh+AsY4eEAKoY+TDEDbW2mqeK
+qZeWYX2vJQAfgjHzgKhxoThkpHB8A2DOntNnQIHmOJjGjHPSWIDidphFBk+cvOQX
+bZTTKF+ON+djJBjXPT2ndW4Sn5RkaQ6akvBdepxjeA65reLfhgyaWAtTqgw=
+-----END CERTIFICATE-----

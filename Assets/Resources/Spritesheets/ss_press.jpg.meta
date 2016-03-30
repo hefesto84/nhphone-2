@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 9c28add487cf5af40a1cfd3ec0572cb3
+timeCreated: 1453302840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ss_press_0
+    21300002: ss_press_1
+    21300004: ss_press_2
+    21300006: ss_press_3
+    21300008: ss_press_4
+    21300010: ss_press_5
+    21300012: ss_press_6
+    21300014: ss_press_7
+    21300016: ss_press_8
+    21300018: ss_press_9
+    21300020: ss_press_10
+    21300022: ss_press_11
+    21300024: ss_press_12
+    21300026: ss_press_13
+    21300028: ss_press_14
+    21300030: ss_press_15
+    21300032: ss_press_16
+    21300034: ss_press_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ss_press_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1444
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1264
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1084
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 904
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 724
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 544
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 364
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 184
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    - name: ss_press_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 485
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.5, y: 90}
+        - {x: -242.5, y: -90}
+        - {x: 242.5, y: -90}
+        - {x: 242.5, y: 90}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

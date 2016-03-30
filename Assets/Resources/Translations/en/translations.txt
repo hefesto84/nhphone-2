@@ -1,0 +1,281 @@
+{
+"t0000": "Welcome to NH Collection",
+"t0001": "Call",
+"t0002": "Call reception",
+"t0003": "Room service",
+"t0004": "Hotel services",
+"t0005": "Breakfast in your room",
+"t0006": "Wake-up call service",
+"t0007": "City Guidebook",
+"t0008": "Daily papers",
+"t0009": "Tablet survey",
+"t0010": "Restaurant",
+"t0011": "Fitness Room",
+"t0012": "Spa",
+"t0013": "Swimming pool",
+"t0014": "Other Services",
+"t0015": "Wi-Fi",
+"t0016": "Phone numbers of interest",
+"t0017": "TV channels",
+"t0018": "Meetings and Events",
+"t0019": "Safety instructions",
+"t0020": "Sustainability",
+"wifi_title":"Free easy-access Wi-Fi",
+"wifi_user":"- User: nh",
+"wifi_password":"- Password: wifi",
+"wifi_premium_title":"Wifi Premium:",
+"wifi_premium1":"- Premium 24 hours: bandwidth up to 1 Mb.",
+"wifi_premium2":"- Duration: 24 hours continuous from the first connection.",
+"wifi_premium3":"- Valid: public area.",
+"wifi_premium4":"- Connection up to 3 devices.",
+"wifi_premium_price":"Price: 9.90 € including VAT.",
+"t0021": "<b>Free easy-access Wi-Fi</b>
+- User: nh
+- Password: wifi
+
+<b>Wi-Fi Premium:</b>
+- Premium 24 hours: bandwidth up to 1 Mb.
+- Duration: 24 hours continuous from the first connection.
+- Valid: public area.
+- Connection up to 3 devices.
+- Price: 9.90 € including VAT.",
+"t0022": "To NH Hotel Group, Sustainability means looking after the PEOPLE we are accommodating, looking after the DESTINATIONS where our hotels are located and looking after the PLANET that we all share.
+\r\nWe innovate to develop eco-efficient solutions. in such a way that at all NH hotels, customers can get the feel of the place, enjoy a healthy stay and feel at home while helping to look after the planet.
+\r\nIn general, all the hotels belonging to the NH Hotel Group, have implemented at least the following environmental initiatives.",
+"t0023": "All the hotels have a monthly control over water, electricity and carbon footprint.",
+"t0024": "All the hotels consume electricity with renewable energy certificates of origin. ",
+"t0025": "All the hotels recycle used cooking oil.",
+"t0026": "We collect corks to recycle them and make linings for the walls and floors of our hotels that are being modernised or refurbished.",
+"t0027": "We promote the consumption of local and healthy produce.",
+"t0028": "All the events and meetings at our hotels are Eco-Friendly and customers have to option to make up for their Carbon Footprints through three compensatory projects.",
+"t0029": "We have implemented a 'Green Laundry' programme.",
+"t0030": "We are implementing a car-sharing service at many of our hotels.",
+"t0031": "We advise our customers about the public transport options available to them. ",
+"t0032": "We are increasing the number of hotels that have recharging points for electric vehicles. ",
+"t0033": "We promote the use of conventional and electric bicycles in the main cities. ",
+"t0034": "Our hotels are increasingly being issued with the following Certificates: Standard ISO 140001 'Environmental Management System', ISO 50001 'Energy Management System' and GreenLeaders from TripAdvisor.",
+"t0035": "Do you need a charger for your phone?
+Do you want to wake up at a particular time?
+Do you want us to replace a bathroom product?
+At reception, we are at your disposal for whatever you might need.",
+"t0036": "Call reception",
+"t0037": "Reception",
+"t0038": "9",
+"t0039": "Another room",
+"t0040": "1 + room number",
+"t0041": "Customer care centre",
+"t0042": "customercare@nh-hotels.com",
+"t0043": "Room Service",
+"t0044": "3022",
+"t0045": "Call",
+"t0046": "Commercial Dept. ",
+"t0047": "3032",
+"t0048": "Call",
+"t0049": "The hotel has a surface area covering 1,000 m2 to organise events with 9 rooms that can be partitioned independently with a maximum height of 4.75 m, which together can create a space to cater for up to 650 people.
+\r\nOur spacious rooms are the ideal place to hold an unforgettable celebration and our professional event organiser will help you with everything you might need. We also work with Auditorio Axa, near the hotel. This is a multi-purpose space, ideal for holding events.
+\r\n\r\n
+\r\n3D holographic technology and Telepresence made available to the customer, breakthroughs that enable communication with high-quality audio-visual aids for both remote and present participants to use, and face-to-face meetings with latest generation visual collaboration.      ",
+"t0050": "Location",
+"t0051": "Ask at reception if you wish to receive information. ",
+"t0052": "Timetable",
+"t0053": "Customised for your event",
+"t0054": "You should know that the hotel staff have been prepared and trained to act in Emergency situations.
+\r\nIf you detect any Emergency situation, inform Hotel Reception immediately, telling them what has happened and where.
+\r\nYou should also know that your room is equipped with an automatic smoke detector, connected to the Fire Exchange in the Hotel Reception area. Behind the door there is an evacuation plan. 
+\r\nIn the corridor on your floor you will also find more evacuation plans, hand-operated fire extinguishers, emergency alarm buttons and emergency lighting. 
+\r\nIf a fire breaks out in your room and you can use the phone, call Hotel Reception as soon as possible. The hotel staff will tell you what to do. 
+\r\nIf you cannot use the phone in your room, go out into the corridor, making sure you shut the door behind you, and inform any member of staff you see, or, press the alarm button in the corridor. ",
+"t0055": "You must evacuate when told to do so by the Hotel staff, or the External Assistance Services.
+\r\nIf you are told to evacuate, keep calm, do not shout, or run, or push, or go back to collect your belongings, use the nearest emergency exits and walk to them. Without stopping, follow the evacuation route indicated.
+\r\nDo not use the lifts, only the stairs, and walk down them on the right-hand side. 
+\r\nIf you find the evacuation routes are filled with smoke, do not use them, stay in the safe zone, closing doors, and inform Hotel Reception about the situation. If you can, place wet towels under the door and make yourself visible at a window. ",
+"t0056": "Our small gymnasium is equipped with all you need for good training. It also has a sauna.\r\n
+Exercise daily at the gym on the 5th Floor. \r\n
+Our gym is equipped with machines, latest generation Technogym apparatus for perfect training. \r\n
+In the gym you will find:\r\n
+- Treadmills, static bicycles and elliptical machines.\r\n
+- Weights\r\n
+- Sauna\r\n
+- Changing rooms\r\n
+- Towels, fruit and drinks are also available to make your training more pleasant and comfortable. 
+",
+"t0057": "Location",
+"t0058": "5th floor",
+"t0059": "Timetable",
+"t0060": "From Monday to Sunday and bank holidays from 07:00 to 22:00",
+"t0061": "Our spa is a haven where you can relax. There are several pools, showers and Jacuzzis, as well as private rooms for beauty treatment and massages. 
+\r\n\r\n
+What will you find in the spa?\r\n
+- Jacuzzi\r\n
+- Sauna and steam bath\r\n
+- Water circuits with hot & cold showers and pools\r\n
+- Private rooms for beauty treatment and massages \r\n
+- Changing rooms\r\n
+- Towels available\r\n
+\r\n\r\n
+The spa is open to all the hotel guests and external customers. \r\n
+Children may only enter the facilities during the first 2 hours of the day, and invariably accompanied by an adult. ",
+"t0062": "Location",
+"t0063": "5th floor",
+"t0064": "Timetable",
+"t0065": "Monday: closed
+Tuesday to Saturday: from 10:00 to 21:00
+Sunday: from 11:00 to 17:00",
+"t0066": "Location",
+"t0067": "Roof terrace (PT)",
+"t0068": "Timetable",
+"t0069": "From Monday to Sunday and bank holidays, from 10:00 to 21:00.",
+"t0070": "Our open-air pool is on the top floor of the hotel.\r\n
+Enjoy an oasis of peace and quiet in the heart of the city's financial district. ",
+"t0071": "At the swimming pool you will find:\r\n
+- Sun loungers\r\n
+- Towels\r\n
+- Food and drink service by the pool",
+"t0072": "Guest Relations",
+"t0073": "Our Guest Relations are available to you to help you organise your stay and to deal with your requests.",
+"t0074": "Call",
+"t0075": "Laundry service",
+"t0076": "Refer to the list of charges on the wardrobe.",
+"t0077": "Timetable",
+"t0078": "- From Monday to Friday from 10:00 to 19:00.\r\n- Saturday from 10:00 to 15:00.\r\n- Sunday and Bank Holiday, closed.\r\n- Clothing received before 10:00 will be returned on the same day without surcharge. Clothing received after 10:00 will be returned the following day.\r\n- A 50% surcharge will be charged on clothing received between 10:00 an 14:00 and that is required for the same day (except dry cleaning)",
+"t0079": "Parking",
+"t0080": "Available for hotel customers.",
+"t0081": "- 24€/day (VAT, incl.)",
+"t0082": "Fee",
+"t0083": "Safe",
+"t0084": "There is a safe in your room where you can deposit all your valuables. \r\n
+The hotel cannot accept responsibility for any objects that are not kept in the safes. Please be careful with your belongings in the public areas of the hotel.",
+"t0085": "All languages",
+"t0086a": "When we do not have to get up early, we want to have breakfast like we do at home, and to surprise everybody, we offer the option of breakfast in your room.",
+"t0086b": "If you wish to order it, do it the night before and no later than 03:00 in the morning.",
+"t0086c": "The extra cost for this service, if you already have breakfast included, is 5 € per person.",
+"t0087": "UI SubSection Name",
+"t0088": "What time do you want us to serve your breakfast?",
+"t0089": "This service can request to be delivered to your room between 7 a.m. and 11 a.m.",
+"t0090": "New Text",
+"t0091": "For how many people?",
+"t0092": "1",
+"t0093": "Let us know about any special requests or food intolerance / allergy:",
+"t0094": "New Text",
+"t0095": "Gluten intolerance",
+"t0096": "Other comments",
+"t0097": "Insert text…",
+"t0098": "Lactose intolerance",
+"t0099": "Continue",
+"t0100": "From the comfort of your room, enjoy a healthy and new experience that will surprise your palate with its freshness, quality and originality of our menu. 
+\r\n\r\n
+3 € supplement for orders below 9 €",
+"t0101": "If you need information about allergens and intolerances, just ask our staff for it. Our dishes comply with Royal Decree 1420/2006 concerning the prevention of parasitosis caused by anisakis.",
+"t0102": "Timetable",
+"t0103": "11:00 to 23:00",
+"t0104": "Start your order",
+"t0105": "Excellent Italian cuisine under the care of our prestigious Sicilian Chef Andrea Tumbarello. The Don Giovanni Restaurant, headquarters of the best Italian gastronomy in Barcelona in the hotel NH Collection Barcelona Constanza, suggests both classic and new proposals in one single zone. Visiting Don Giovanni means enjoying some of the most delicious dishes prepared by this chef, known as the “king of truffles”.
+Furthermore, if you wish, the restaurant has a 'Today's Special'",
+"t0106": "Location",
+"t0107": "Garden Floor PP",
+"t0108": "Timetable",
+"t0109": "From Monday to Friday from 13:00 to 16:00 and from 19:30 to 23:30",
+"t0110": "Call",
+"t0111": "932811500",
+"t0112": "Menus",
+"t0113": "Wine list",
+"t0114": "Cocktails, under the auspices of the acclaimed bartender Diego Cabrera.
+You will find the cocktail bar on the Garden Floor (PP), many of our cocktails have been exclusively designed by the above-mentioned international blender. A contemporary space devised to enable you to enjoy unique experiences with the best cocktails prepared by the author. A luxurious blend.
+
+Guests will also find at lunch and dinner time, a limited version of the menu from the Don Giovanni Restaurant, featuring the excellent Italian cuisine and run by the prestigious Sicilian Chef Andrea Tumbarello.",
+"t0115": "Location",
+"t0116": "Garden floor (PP)",
+"t0117": "Timetable",
+"t0118": "From Monday to Sunday and bank holidays from 10:00 to 01:00",
+"t0119": "Call",
+"t0120": "932811500",
+"t0121": "Menus",
+"t0122": "Cocktail Menu",
+"t0123": "Our buffet breakfast will make sure you begin the day in a healthy and balanced way, with products freshly prepared every morning. The buffet includes a wide range of natural fruit juices, buns, cooked meats and sausage, cheeses, fruit, yogurt, bread and a lot more. You may also order the hot dishes of your choice.
+\r\nFurthermore, if you have to leave before the buffet is open, ask at reception about the possibility of an early-bird breakfast.",
+"t0124": "Location",
+"t0125": "Garden floor PP",
+"t0126": "Timetable",
+"t0127": "- From Monday to Saturday, from 07:00 to 11:00. \r\n\r\n- Sunday and Bank Holiday, from 07:00 to 12:00. \r\n\r\n- Early-bird breakfast from Monday to Sunday, from 05:00 to 07:00. ",
+"t0128": "Cold drinks",
+"t0129": "Voss spring water (0.5 l.)",
+"t0130": "Sparkling San Pellegrino mineral water (0.5 l.)",
+"t0131": "Coca Cola (20 cl.)",
+"t0132": "Diet Coke (20 cl.)",
+"t0133": "Coke Zero (20 cl.)",
+"t0134": "Fanta Orange",
+"t0135": "Fanta Lemon",
+"t0136": "Fever-Tree Tonic",
+"t0137": "Granini Orange Juice",
+"t0138": "Granini Pineapple Juice",
+"t0139": "Alcoholic drinks",
+"t0140": "Heineken Beer",
+"t0141": "Local Beer",
+"t0142": "Viña Pomal Red Wine (50 cl.)",
+"t0143": "Moët Champagne (20 cl.)",
+"t0144": "Grey Goose Vodka (5 cl.)",
+"t0145": "Nº 3 London Dry Gin (10 cl.)",
+"t0146": "Le Courvoisier Cognac (5 cl.)",
+"t0147": "The Macallan Amber Scotch Whisky (5 cl.)",
+"t0148": "Bacardi 8 Yr. Rum (5 cl).",
+"t0149": "Dewar's White Label Scotch Whisky (5 cl.)",
+"t0150": "Savoury Snacks",
+"t0151": "Fried Almonds (NH Collection)",
+"t0152": "Nut Cocktail (NH Collection)",
+"t0153": "San Nicasio Crisps",
+"t0154": "Crisps with Truffles",
+"t0155": "Pringles",
+"t0156": "Sweet Snacks",
+"t0157": "Lindt Excellence Orange Chocolate",
+"t0158": "Lindt Excellence Sea Salt Chocolate",
+"t0159": "Chocolate Toblerone",
+"t0160": "Oreo cookies",
+"t0161": "Hero muesli and hazelnut cereal bar",
+"t0162": "Chocolate almonds",
+"t0163": "NH Collection fruit pectins",
+"t0164": "Don Giovanni Restaurant",
+"t0165": "Cocktail Bar",
+"t0166": "Breakfast",
+"t0167": "Minibar",
+"t0168": "Room Service",
+"t0169": "Breakfast in your room",
+"t0170": "Starters",
+"t0171": "Salads",
+"t0172": "Pasta",
+"t0173": "Rolls",
+"t0174": "Main courses",
+"t0175": "Desserts",
+"t0176": "Drinks",
+"t0177": "Alcohol-free drinks",
+"t0178": "Weather",
+"t0179": "Alcoholic drinks must not be served to under-18s or consumed by them.",
+"t0180": "Many thanks. Your order is being prepared and will be brought up to your room right away. You will receive it in approximately 20 minutes*. Enjoy your meal. /n *In exceptional circumstance it might take longer, the maximum being 40 minutes.",
+"t0181": "Welcome to NH Collection. /n Touch the display to begin",
+"t0182": "There is a selection of dishes available round the clock. ",
+"holdscreen_room": "Room",
+"holdscreen_touch":"Touch the display to begin",
+"holdscreen_welcome":"Welcome to",
+"t9700":"Thank you very much.
+\r\nYour order is being prepared to raise it as soon as possible to your room, you will receive it in approximately 20 minutes*.
+\r\nBon Appetite",
+"t9701":"*En casos excepcionales el timepo puedo ser superior, con un máximo de 40 minutos",
+"t9800":"Recipe light calorie",
+"t9801":"Vegetarian recipe",
+"t9802":"Without gluten",
+"t9803":"24 hour service",
+"t9804":"Star dish",
+"t9988":"SelectBreakfast",
+"t9989":"CheckoutBreakfast",
+"t9990":"CheckoutRoomService",
+"t9991":"CheckoutSuccess",
+"t9992":"Checkout",
+"t9993":"NH Rewards",
+"t9994":"Poll",
+"t9995":"Press",
+"t9996":"Front Desk Call",
+"t9997":"Environment",
+"t9998":"Useful",
+"t9999":"Home",
+"t0101b":"There is a selection of dishes that are available 24 hours",
+"t0101c":"The sale and supply of alcoholic beverages to persons under 18 years and their consumption is prohibited by them.",
+}

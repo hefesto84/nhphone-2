@@ -1,0 +1,270 @@
+{
+"t0000": "Bienvenu à NH Collection",
+"t0001": "Appeler",
+"t0002": "Appeler la réception",
+"t0003": "Service d’étages",
+"t0004": "Services de l'hôtel",
+"t0005": "Petit-déjeuner dans la chambre",
+"t0006": "Appel-réveil",
+"t0007": "Guide de la ville",
+"t0008": "Presse quotidienne",
+"t0009": "Enquête tablette",
+"t0010": "Restaurant",
+"t0011": "Salle de fitness",
+"t0012": "Spa",
+"t0013": "Piscine",
+"t0014": "Autres services",
+"t0015": "Wifi",
+"t0016": "Numéros de téléphone utiles",
+"t0017": "Canaux TV",
+"t0018": "Réunions et événements",
+"t0019": "Instructions de sécurité",
+"t0020": "Durabilité",
+"wifi_title":"Wifi gratuit et à accès facile",
+"wifi_user":"- Nom d’utilisateur : nh",
+"wifi_password":"- Mot de passe : wifi",
+"wifi_premium_title":"Wifi Premium:",
+"wifi_premium1":"- Premium 24 heures : bande passante jusqu’à 1 Mb.",
+"wifi_premium2":"- Durée : 24 heures consécutives depuis la première connexion.",
+"wifi_premium3":"- Validité : domaine public.",
+"wifi_premium4":"- Connexion jusqu’à 3 dispositifs.",
+"wifi_premium_price":"Prix : 9,90 € TTC",
+"t0021": "<b>Wifi gratuit et à accès facile</b>
+- Nom d’utilisateur : nh
+- Mot de passe : wifi
+
+<b>Wifi Premium:</b>
+- Premium 24 heures : bande passante jusqu’à 1 Mb.
+- Durée : 24 heures consécutives depuis la première connexion.
+- Validité : domaine public.
+- Connexion jusqu’à 3 dispositifs.
+- Prix : 9,90 € TTC",
+"t0022": "Pour le Groupe NH Hotel, la durabilité signifie prendre soin des PERSONNES qui logent chez nous, prendre soin des DESTINATIONS où se trouvent nos hôtels et prendre soin de la PLANÈTE, que nous partageons tous.
+\r\nNous innovons en développant des solutions écologiques et efficaces, de sorte que, dans les hôtels NH, les clients peuvent sentir à l'aise, profiter d’un séjour sain et de bien-être tout en contribuant à prendre soin de la planète.
+\r\nDans les hôtels du Groupe NH Hotel, de façon générale, les initiatives environnementales suivantes sont au moins mises en place.",
+"t0023": "Tous les hôtels contrôlent mensuellement la consommation en eau, en électricité et la trace de carbone.",
+"t0024": "Tous les hôtels consomment de l’électricité avec certificat d’origine de sources renouvelables.",
+"t0025": "Tous les hôtels recyclent l’huile de cuisine usée.",
+"t0026": "Nous recueillons les bouchons de liège pour les recycler et pour créer des revêtements pour les murs et les planchers de nos hôtels où sont menés des travaux de rénovation.",
+"t0027": "Nous promouvons la consommation d’aliments locaux et sains.",
+"t0028": "Tous les événements et toutes les réunions dans nos hôtels sont eco-friendly (respectueux de l'environnement) et le client a le choix de compenser la trace de carbone par le biais de trois projets sociaux.",
+"t0029": "Nous avons mis en place un projet appelé « Blanchisserie verte ».",
+"t0030": "Nous sommes en train de mettre sur pied le service de car-sharing (partage de véhicule) dans beaucoup de nos hôtels.",
+"t0031": "Nous conseillons à nos clients sur la possibilité d’utiliser le transport public.",
+"t0032": "Nous sommes en train d’augmenter le nombre d’hôtels qui sont pourvus de points de recharge pour véhicules électriques.",
+"t0033": "Nous promouvons l’usage de la bicyclette classique et électrique dans les principales villes.",
+"t0034": "Nous avons de plus en plus d’hôtels certifiés selon les normes ISO 14001 « Système de gestion environnementale », ISO 50001 « Système de gestion d’énergie » et EcoLeaders de TripAdviser.",
+"t0035": "Avez-vous besoin d’un chargeur pour votre téléphone ?
+Devez-vous vous réveiller à une heure bien précise ?
+Voulez-vous que nous vous fournissions à nouveau un produit de toilette ?
+À la réception, nous sommes à votre disposition pour tout ce dont vous pouvez avoir besoin.",
+"t0036": "Appeler la réception",
+"t0037": "Réception",
+"t0038": "9",
+"t0039": "Autre chambre",
+"t0040": "1 + le numéro de la chambre",
+"t0041": "Centre de service à la clientèle",
+"t0042": "customercare@nh-hotels.com",
+"t0043": "Service d’étages",
+"t0044": "3022",
+"t0045": "Appeler",
+"t0046": "Service commercial",
+"t0047": "3032",
+"t0048": "Appeler",
+"t0049": "L’hôtel dispose de plus de 1 000 m2 en espace pour organiser des événements avec 9 salons qui peuvent être divisés à l’aide de panneaux et ont une hauteur maximale de 4,75 m qui, tous ensemble, peuvent former un espace diaphane d’une capacité maximale de 650 personnes.
+\r\nNos vastes salons sont le lieu idéal pour une célébration inoubliable et notre organisateur professionnel d’événements vous aidera dans tout ce dont vous pourriez avoir besoin. 
+\r\nNous travaillons aussi avec Auditorio Axa, qui se trouve tout près de l’hôtel. C’est un espace multifonctionnel, idéal pour la tenue d’événements.
+\r\n\r\n
+Technologie holographique 3D et de télé-présence à disposition du client, des progrès technologiques qui permettent une communication vidéo et audio de haute qualité entre les participants, présents ou à distance, et des réunions sur place avec une technologie visuelle de dernière génération.",
+"t0050": "Emplacement",
+"t0051": "Consultez le personnel de la réception si vous souhaitez recevoir de l’information",
+"t0052": "Horaire",
+"t0053": "Personnalisé pour votre événement",
+"t0054": "Vous devez savoir que le personnel de l’Hôtel a été formé pour agir dans des situations d’urgence.
+\r\nSi vous constatez une situation d’urgence, communiquez-le immédiatement à la réception de l’hôtel, en précisant clairement ce qui se passe et où cela se passe.
+\r\nVous devez aussi savoir que votre chambre est pourvue d’un détecteur de fumée automatique, connecté à la centrale d’incendie de la réception de l’hôtel. Et derrière la porte il y a un plan d’évacuation.
+\r\nDans le couloir de l’étage, vous trouverez plus de plans d’évacuation, des extincteurs manuels, des boutons-poussoirs d’alarme et un éclairage de secours. 
+\r\nS'il se produit un incendie dans votre chambre, et que vous pouvez appeler par téléphone, appelez au plus vite la réception de l’hôtel. Le personnel de l’hôtel vous indiquera ce que vous devez faire.
+\r\nSi vous ne pouvez pas utiliser le téléphone de la chambre, sortez au couloir, en vous assurant de fermer la porte de votre chambre, et informez n’importe quel employé que vous rencontrez, ou bien, appuyez sur le bouton-poussoir d’alarme.",
+"t0055": "Vous devez évacuer les lieux lorsque le personnel de l’hôtel ou les services externes d’aide vous l’indique.
+\r\nDans l'éventualité où l’on vous indiquerait d’évacuer, restez calme, ne criez pas, ne courrez pas, ne poussez pas ni ne revenez sur vos pas pour aller chercher des effets personnels, repérez les sorties de secours les plus proches et marchez vers celles-ci, sans vous arrêter, suivez l’itinéraire d’évacuation signalée.
+\r\nN’utilisez pas les ascenseurs, n’empruntez que les escaliers en vous tenant sur la droite tandis que vous vous déplacez.
+\r\nSi vous trouvez des voies d’évacuation remplies de fumée, n’y entrez pas, restez dans une zone sûre, en fermant les portes et en informant la réception de l’hôtel de la situation. Si vous pouvez, placez des serviettes humides sur le bas de la porte et faites-vous voir par la fenêtre.",
+"t0056": "Notre petit gymnase dispose de tout ce dont vous avez besoin pour un bon entraînement. Il est aussi doté d’un sauna.\r\n
+Faites de l’exercice tous les jours dans le gymnase au 5e étage.\r\n
+Notre gymnase est équipé de machines Technogym de dernière génération pour un entraînement parfait.\r\n
+Dans cet espace, vous trouverez :\r\n
+- Tapis de course, vélos d’exercice et vélos elliptiques.\r\n
+- Haltères\r\n
+- Sauna\r\n
+- Vestiaires\r\n
+- Nous disposons aussi de serviettes, de fruits et de boissons pour faciliter votre entraînement.",
+"t0057": "Emplacement",
+"t0058": "Étage 5",
+"t0059": "Horaire",
+"t0060": "Du lundi au vendredi et jours fériés de 7 h à 22 h",
+"t0061": "Notre spa est un refuge pour la détente. Il est doté de plusieurs piscines, douches et jacuzzis ainsi que de salons privés pour des traitements de beauté et des massages.
+\r\n\r\n
+Qu’est-ce que vous trouverez dans le spa ?\r\n
+- Jacuzzi\r\n
+- Sauna et bain de vapeur\r\n
+- Circuit aquatique avec piscines et douches d’eau chaude et d’eau froide\r\n
+- Salons privés pour traitements et massages\r\n
+- Vestiaires\r\n
+- Serviettes à votre disposition\r\n
+\r\n\r\n
+Le spa est ouvert à tous les clients de l’hôtel et aux clients de l’extérieur.\r\n
+Les enfants ne peuvent accéder aux installations que durant les deux premières heures du jour et ils doivent toujours être accompagnés d’un adulte.",
+"t0062": "Emplacement",
+"t0063": "Étage 5",
+"t0064": "Horaire",
+"t0065": "Lundi : fermé
+Du mardi au samedi : de 10 h à 21h
+Dimanche : de 11 h à 17 h",
+"t0066": "Emplacement",
+"t0067": "Étage terrasse PT",
+"t0068": "Horaire",
+"t0069": "Du lundi au dimanche et jours fériés de 10 h à 21 h.",
+"t0070": "Notre piscine extérieure se trouve au dernier étage de l’hôtel.\r\n
+Profitez d’un havre de paix dans le très animé district financier de la ville.",
+"t0071": "À la piscine, vous avez à votre disposition :\r\n
+- Chaises longues\r\n
+- Serviettes\r\n
+- Service de repas et de boissons à côté de la piscine",
+"t0072": "Guest Relations",
+"t0073": "Notre Guest Relations (Responsable relation clientèle) est à votre disposition pour organiser votre séjour et pour répondre à vos demandes.",
+"t0074": "Appeler",
+"t0075": "Service de blanchisserie",
+"t0076": "Consultez les tarifs se trouvant dans le placard.",
+"t0077": "Horaire",
+"t0078": "- Du lundi au vendredi de 10 h à 19 h.\r\n- Samedi de 10 h à 15 h.\r\n- Dimanche et jours fériés, fermé.\r\n- Les vêtements que vous nous remettez avant 10 heures vous seront rendus le même jour sans frais supplémentaire. Les vêtements que vous nous remettez après 10 heures vous seront rendus le jour suivant.\r\n- Les vêtements que vous nous remettez entre 10 h et 14 h et que vous souhaitez obtenir le même jour (sauf blanchisserie) feront l’objet d’une surcharge de 50 %.",
+"t0079": "Parking",
+"t0080": "Disponible pour les clients de l’hôtel.",
+"t0081": "- 24 €/jour (TTC)",
+"t0082": "Tarif",
+"t0083": " Coffre-fort",
+"t0084": "Dans votre chambre, vous disposez d’un coffre-fort dans lequel vous pourrez ranger vos objets de valeur.\r\n
+L’hôtel n’assume aucune responsabilité pour les objets que vous laissez à l’extérieur du coffre-fort. Veuillez faire attention à vos effets personnels dans les zones publiques de l’hôtel.",
+"t0085": "Toutes les langues",
+"t0086a": "Pour les jours où vous n’avez pas à vous lever tôt et que vous voulez prendre le petit-déjeuner comme à la maison ou même surprendre vos accompagnants, nous disposons d’un service de petit-déjeuner dans la chambre.",
+"t0086b": "Si vous souhaitez le demander, faites-le le soir précédant et, au plus tard, à 3 heures du matin.",
+"t0086c": "Les frais additionnels pour ce service, si vous avez déjà le petit-déjeuner inclus, sont de 5 € par personne.",
+"t0087": "UI SubSection Name",
+"t0088": "À quelle heure souhaitez-vous que nous vous servions le petit-déjeuner ?",
+"t0089": "(service disponible entre 7 h et 11 h)",
+"t0090": "New Text",
+"t0091": "Pour combien de personnes ?",
+"t0092": "New Text",
+"t0093": "Informez-nous de toute demande spéciale ou de toute intolérance alimentaire :",
+"t0094": "New Text",
+"t0095": "Intolérance au gluten",
+"t0096": "Autres commentaires",
+"t0097": "Saisissez le texte...",
+"t0098": "Intolérance au lactose",
+"t0099": "Continuer",
+"t0100": "Du confort de votre chambre, profitez d’une expérience saine et innovatrice qui surprendra votre palais par la fraîcheur, la qualité et l’originalité des plats que nous vous offrons.
+\r\n\r\n
+Supplément de 3 € par commandes de moins de 9 €",
+"t0101": "Si vous avez besoin d’information sur les allergènes et les intolérances alimentaires, demandez-la à notre personnel. Nos plats respectent le décret royal 1420/2006 sur la prévention de l’anisakiase.",
+"t0102": "Horaire",
+"t0103": "De 11 h à 23 h",
+"t0104": "Commencez commande",
+"t0105": "Excellente cuisine italienne dirigée par le prestigieux chef sicilien Andrea Tumbarello. Le restaurant Don Giovanni, haut lieu de la gastronomie italienne à Barcelone qui se trouve dans l’hôtel NH Collection Barcelona Constanza, suggère des plats classiques et nouveaux dans un espace unique. Une visite à Don Giovani permet d’apprécier certains des plats les plus succulents du chef, connu comme le « roi de la truffe ».
+De plus, le restaurant offre un menu du jour.",
+"t0106": "Emplacement",
+"t0107": "Étage jardin PP",
+"t0108": "Horaire",
+"t0109": "Du lundi au dimanche de 13 h à 16 h et de 19 h 30 à 23 h 30",
+"t0110": "Appeler",
+"t0111": "932811500",
+"t0112": "Carte des menus",
+"t0113": "Carte des vins",
+"t0114": "Le bar à cocktail est dirigé par le fameux barman Diego Cabrera.
+Vous le trouverez à l’étage jardin (PP). Notre bar à cocktail offre des préparations exclusives conçues par un expert international. Un espace contemporain conçu pour vivre des expériences uniques avec les meilleures créations en cocktails qui soient. Un mélange de luxe.
+
+Vous trouverez aussi aux heures de repas, une version réduite de la carte du Restaurant Don Giovanni, une excellente cuisine italienne dirigée par le prestigieux chef sicilien Andrea Tumbarello.",
+"t0115": "Emplacement",
+"t0116": "Étage jardin PP",
+"t0117": "Horaire",
+"t0118": "Du lundi au dimanche et jours fériés de 10 h à 1 h",
+"t0119": "Appeler",
+"t0120": "932811500",
+"t0121": "Carte des menus",
+"t0122": "Carte des cocktails",
+"t0123": "Notre buffet petit-déjeuner vous assure de commencer la journée de façon saine et équilibrée, avec des produits frais préparés chaque matin. Le buffet comprend une vaste gamme de jus naturels, de viennoiseries, de saucissons, de fromages, de fruits, de yaourts, de pains et bien plus encore. Vous pouvez aussi demander des plats chauds à votre goût.
+\r\nDe plus, si vous devez partir avant que n’ouvre le buffet, demandez à la réception le petit-déjeuner pour les lève-tôt.",
+"t0124": "Emplacement",
+"t0125": "Étage jardin PP",
+"t0126": "Horaire",
+"t0127": "- Du lundi au samedi de 7 h à 11 h.\r\n\r\n- Dimanche et jours fériés de 7 h à 12 h.\r\n\r\n- Petit-déjeuner pour lève-tôt : du lundi au dimanche de 5 h à 7 h",
+"t0128": "Boissons froides",
+"t0129": "Eau plate Voss 0,5 l",
+"t0130": "Eau gazeuse San Pellegrino 0,5 l",
+"t0131": "Coca Cola 20 cl",
+"t0132": "Coca Cola Light 20 cl",
+"t0133": "Coca Cola Zero 20 cl",
+"t0134": "Fanta Soda orange",
+"t0135": "Fanta Soda citron",
+"t0136": "Soda tonic Fever-Tree",
+"t0137": "Jus d’orange Granini",
+"t0138": "Jus d’ananas Granini",
+"t0139": "Boissons alcoolisées",
+"t0140": "Bière Heineken",
+"t0141": "Bière locale",
+"t0142": "Vin rouge Viña Pomal 50 cl",
+"t0143": "Champagne Moët 20 cl",
+"t0144": "Vodka Greu Goose 5 cl",
+"t0145": "Gin Nº 3 london Dry 10 cl",
+"t0146": "Cognac Le Courvoisier 5 cl",
+"t0147": "Whisky écossais The Macallan Amber 5 cl",
+"t0148": "Rhum Bacardi 8 ans d’âge 5 cl",
+"t0149": "Whisky écossais White Label 5 cl",
+"t0150": "Snacks salés",
+"t0151": "Amandes frites NH Collection",
+"t0152": "Cocktail de fruits secs NH Collection",
+"t0153": "Chips San Nicasio",
+"t0154": "Chips avec truffe",
+"t0155": "Biscuits Pringles",
+"t0156": "Snacks sucrés",
+"t0157": "Chocolat Lindt Excellence à l’orange",
+"t0158": "Chocolat Lindt Excellence à la fleur de sel",
+"t0159": "Chocolat Toblerone",
+"t0160": "Biscuits Oreo",
+"t0161": "Barre aux noisettes Hero Muesly",
+"t0162": "Amande de chocolat",
+"t0163": "Pectines de fruit NH Collection",
+"t0164": "Restaurant Don Giovanni",
+"t0165": "Bar à cocktail",
+"t0166": "Petit-déjeuner",
+"t0167": "Mini-bar",
+"t0168": "Service d’étages",
+"t0169": "Petit-déjeuner dans la chambre",
+"t0170": "Entrées",
+"t0171": "Salades",
+"t0172": "Pâtes",
+"t0173": "Sandwichs",
+"t0174": "Plats principaux",
+"t0175": "Desserts",
+"t0176": "Boissons",
+"t0177": "Boissons alcoolisées",
+"t0178": "Météo",
+"t0179": "La vente et la fourniture de boissons alcoolisées sont interdites aux moins de 18 ans tout comme la consommation par ces derniers",
+"t0180": "Merci. Votre commande est en cours de préparation pour la monter au plus vite à votre chambre ; vous la recevrez dans environ 20 minutes*. Bon appétit. /n *Dans des cas exceptionnels, cela peut prendre un peu plus de temps, sans dépasser les 40 minutes.",
+"t0181": "Bienvenu à NH Collection. /n Touchez l’écran pour commencer",
+"t0182": "Il y a un choix de plats qui sont disponibles 24 heures par jour",
+"holdscreen_room": "Chambre",
+"holdscreen_touch":"Touchez l’écran pour commencer",
+"holdscreen_welcome":"Bienvenu à",
+"t9988":"SelectBreakfast",
+"t9989":"CheckoutBreakfast",
+"t9990":"CheckoutRoomService",
+"t9991":"CheckoutSuccess",
+"t9992":"Checkout",
+"t9993":"NH Rewards",
+"t9994":"Poll",
+"t9995":"Press",
+"t9996":"Front Desk Call",
+"t9997":"Environment",
+"t9998":"Useful",
+"t9999":"Home",
+}
