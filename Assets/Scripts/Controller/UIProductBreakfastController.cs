@@ -107,7 +107,17 @@ public class UIProductBreakfastController : MonoBehaviour {
 
 		m_product = product;
 		//this.GetComponent<Image>().sprite = Resources.Load<Sprite> ("Images/Breakfast/Products/pr_"+product.id);
-		btnProduct.GetComponent<Image>().sprite = Resources.Load<Sprite> ("Images/Breakfast/Products/pr_"+product.id); 
+		//btnProduct.GetComponent<Image>().sprite = Resources.Load<Sprite> ("Images/Breakfast/Products/pr_"+product.id); 
+		ReloadImage();
+	}
 
+	public void ReloadImage(){
+		StartCoroutine (tLoadImage ());
+	}
+
+	IEnumerator tLoadImage(){
+		WWW www = new WWW ("http://10.8.0.1:8080/NHServices/api/getImageById?imageId="+m_product.id);
+		yield return www;
+		btnProduct.GetComponent<Image>().sprite = Sprite.Create(www.texture, new Rect(0, 0, www.texture.width, www.texture.height), new Vector2(0.5f, 0.5f));
 	}
 }

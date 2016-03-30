@@ -170,8 +170,9 @@ public class UIProductController : MonoBehaviour {
 		txtPrice.text = product.price + " €";
 
 		m_product = product;
-		this.GetComponent<Image>().sprite = Resources.Load<Sprite> ("Images/RoomService/Products/pr_img_"+product.id);
-		m_product.quantity = product.quantity;
+		//this.GetComponent<Image>().sprite = Resources.Load<Sprite> ("Images/RoomService/Products/pr_img_"+product.id);
+		//m_product.quantity = product.quantity;
+		ReloadImage();
 
 		quantity = m_product.quantity;
 		txtQuantity.text = m_product.quantity+"";
@@ -213,5 +214,15 @@ public class UIProductController : MonoBehaviour {
 		} else {
 			imgInformation.gameObject.SetActive (false);
 		}
+	}
+
+	public void ReloadImage(){
+		StartCoroutine (tLoadImage ());
+	}
+
+	IEnumerator tLoadImage(){
+		WWW www = new WWW ("http://10.8.0.1:8080/NHServices/api/getImageById?imageId="+m_product.id);
+		yield return www;
+		this.GetComponent<Image>().sprite = Sprite.Create(www.texture, new Rect(0, 0, www.texture.width, www.texture.height), new Vector2(0.5f, 0.5f));
 	}
 }
